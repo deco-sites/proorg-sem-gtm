@@ -1,0 +1,46 @@
+{
+  "name": "Politica de Privacidade",
+  "path": "/politica-de-privacidade",
+  "sections": [
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "PO-whatsapp"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Informations.tsx",
+        "title": "Política de Privacidade",
+        "text": "<p class=\"font_9\">O site Progressiva Orgânica respeita a sua privacidade, porque garante o sigilo total das informações que você nos fornece. Seus dados pessoais são armazenados em nosso banco de dados com o intuito de melhorar o nosso relacionamento com você, através de e-mail, mala-direta, telemarketing, entre outras formas de interação. Assim, podemos sempre oferecer os melhores produtos e serviços.&nbsp;<br><br>Os seus dados pessoais nunca são enviados ou disponibilizados a terceiros. Nossa base de dados é utilizada apenas para o envio de nossos próprios e-mails.&nbsp;<br><br>Fique tranquila (o), o número do seu cartão de crédito é usado somente no processamento de compra, não sendo, de modo algum, guardado nos arquivos depois da operação. Ficam arquivados apenas os seus dados pessoais de cadastro.&nbsp;<br><br>O seu endereço de e-mail será utilizado para divulgação de promoções e lançamentos de nosso site, desde que previamente autorizado por você em seu cadastro no site&nbsp;Progressiva Orgânica. Nossos informativos têm como remetentes:&nbsp;VENDAS@PROGRESSIVAORGANICA.COM.BR&nbsp;(para dados do seu pedido),&nbsp;SAC@PROGRESSIVAORGANICA.COM.BR&nbsp;(para informações e dúvidas)&nbsp;</p><p class=\"font_9\"><br><strong>Segurança</strong>&nbsp;<br><br>O&nbsp;site&nbsp;Progressiva Orgânica&nbsp;é um site 100% seguro em todas suas transações. Investimos nas tecnologias mais avançadas em proteção de dados para que você possa realizar suas compras num ambiente moderno, prático e com total segurança.&nbsp;<br><br>Possuímos Certificado de Segurança, uma das maiores empresas mundiais de certificação digital. Isso significa que a o site progressiva Orgânica&nbsp; foi avaliado&nbsp;por diversos analistas para assegurar sua confiabilidade.&nbsp;<br><br>Somos certificados também pelo Site Blindado, um sistema de análise de vulnerabilidades de aplicações web, servidores e dispositivos de rede que realiza diariamente, milhares de testes automatizados de segurança.<br><br><br><br><strong>Tecnologia&nbsp;</strong><br><br>Todas as informações referentes ao cadastro dos clientes arquivadas em um ambiente interno e sigiloso do site progressiva Orgânica, não sendo fornecidos a terceiros.&nbsp;<br><br>As senhas pessoais dos clientes são codificadas. Nossos funcionários não possuem nenhum acesso a estas informações.&nbsp;<br><br>Nossos sistemas de cobrança também são 100% seguros. Toda transação que envolver pagamento seja por cartão de crédito ou não, será criptografada com a tecnologia SSL (Secure Socket Layer). Isso significa que, durante o trajeto pela Internet, eles fiquem irreconhecíveis, assegurando a confidencialidade.&nbsp;<br><br>Nós garantimos&nbsp;a segurança de sua compra e respeita a sua privacidade. Navegue, explore o nosso site e boas compras!&nbsp;<br><br><br>Compromisso com o cliente&nbsp;<br><br>O site&nbsp;Progressiva Orgânica&nbsp;se compromete com a privacidade e a segurança de seus clientes. Por isso, não divulgamos seus dados cadastrais para terceiros, exceto quando estas informações são necessárias para o processo de entrega, cobrança ou para participação em promoções informadas previamente ao cliente.&nbsp;<br><br>Os dados cadastrados são:&nbsp;<br><br>- Nome Completo;<br>- CPF;<br>- Sexo;<br>- Data de Nascimento;<br>- Telefone;<br>- E-mail;<br>- Endereço Completo.&nbsp;<br><br><br><strong>Sobre nossos e-mails promocionais&nbsp;</strong><br><br>o site&nbsp;Progressiva Orgânica&nbsp;envia e-mails com dicas e promoções exclusivas aos seus Clientes Vip até 2&nbsp;vezes por semana. Os links contidos nestes e-mails sempre conduzem o cliente ao site&nbsp;Progressiva Orgânica&nbsp;Este envio é feito de modo sigiloso e seguro, impossibilitando que vírus sejam encaminhados na mensagem.&nbsp;<br><br>Verifique o link de redirecionamento de nossas mensagens. Estas sempre devem encaminhar ao&nbsp;site&nbsp;Progressivaorgânica.com.br&nbsp;Não clique em nenhum link caso o endereço para redirecionamento não seja este.&nbsp;<br><br><br>Opt-out (descadastro de recebimento de e-mails promocionais):&nbsp;<br><br>O site&nbsp;Progressiva Orgânica&nbsp;respeita a sua privacidade e só envia e-mails para clientes que autorizaram este serviço.&nbsp;<br><br>Caso queira cancelar o recebimento desses emails, basta clicar sobre o link de descadastramento contido em todos nossos e-mails promocionais.<br><br>Dicas de Segurança&nbsp;<br><br>Para garantir a sua segurança em qualquer site da internet, recomendamos que:&nbsp;<br><br>- Para saber mais sobre compras seguras na internet, acesse o site&nbsp;<a>www.internetsegura.org</a>. Lá você conhecerá informações claras e precisas sobre segurança na internet.&nbsp;</p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/ProductShelf.tsx",
+        "products": {
+          "__resolveType": "vnda/loaders/productList.ts",
+          "count": 10,
+          "sort": "newest"
+        },
+        "title": "Os mais vendidos",
+        "subtitle": "Os clientes também compraram"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

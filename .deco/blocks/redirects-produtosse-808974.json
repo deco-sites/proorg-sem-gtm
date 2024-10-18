@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/produtos/selante-vegano-bellaliss-1l",
+    "to": "/produto/selante-vegano-bellaliss-1l-40?skuId=SELAGEM-VEGANA-1L-PAI",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

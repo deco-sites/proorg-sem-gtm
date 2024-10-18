@@ -1,0 +1,19 @@
+{
+  "link": {
+    "href": "https://github.com/deco-cx",
+    "text": "Visit our GitHub"
+  },
+  "text": "<p>Design, develop and deliver complete experiences</p>",
+  "labels": {
+    "expired": " ",
+    "days": "teste",
+    "hours": "horas",
+    "minutes": "minutos",
+    "seconds": "segundos"
+  },
+  "layout": {
+    "textPosition": "After counter"
+  },
+  "__resolveType": "site/sections/Miscellaneous/CampaignTimer.tsx",
+  "expiresAt": "2024-08-30T03:00:00.000Z"
+}

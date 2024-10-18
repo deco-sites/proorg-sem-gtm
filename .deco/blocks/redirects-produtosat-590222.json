@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/produtos/ativo-escova-profissional-organica-amazon-therapy-1-litro",
+    "to": "/produto/ativo-escova-profissional-organica-amazon-therapy-1-litro-9?skuId=123-ATIVO",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

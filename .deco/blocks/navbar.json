@@ -1,0 +1,168 @@
+{
+  "items": [
+    {
+      "children": [
+        {
+          "image": [],
+          "children": [],
+          "url": "/progressiva-organica/progressiva-organica-sem-formol-amazon-therapy1",
+          "name": "Compactação Amazon Therapy"
+        },
+        {
+          "image": [],
+          "children": [],
+          "name": "Amazon Therapy Supreme",
+          "url": "/progressiva-organica/amazon-therapy-supreme-liso-perfeito"
+        },
+        {
+          "image": [],
+          "children": [],
+          "name": "Amazon Therapy Compactação Orgânica",
+          "url": "/progressiva-organica/compactacao-organica"
+        },
+        {
+          "image": [],
+          "children": [],
+          "name": "Vegan Hair Orgânica com Biotina e Macadamia",
+          "url": "/progressiva-organica/progressiva-vegan-hair"
+        },
+        {
+          "image": [],
+          "children": [],
+          "url": "/progressiva-organica/progressiva-natuplus",
+          "name": "Prolisse"
+        },
+        {
+          "image": [],
+          "children": [],
+          "url": "/progressiva-organica/progressiva-organica-selagem-organica",
+          "name": "Selagem Orgânica"
+        },
+        {
+          "image": [],
+          "children": [],
+          "url": "/progressiva-organica/fioterapia",
+          "name": "Fioterapia"
+        },
+        {
+          "image": [],
+          "children": [],
+          "url": "/progressiva-organica/veganterapia",
+          "name": "Veganterapia"
+        },
+        {
+          "image": [],
+          "children": [],
+          "url": "/progressiva-organica/progressiva-naturale",
+          "name": "Naturale"
+        }
+      ],
+      "image": [],
+      "name": "Transformação",
+      "url": "/progressiva-organica"
+    },
+    {
+      "children": [
+        {
+          "image": [],
+          "children": [],
+          "url": "/cabelos-tratamento/tratamento-para-cabelos-crescimento-capilar",
+          "name": "Antiqueda e Crescimento Capilar"
+        },
+        {
+          "image": [],
+          "children": [],
+          "url": "/cabelos-tratamento/botox-organico",
+          "name": "Redutor de Volume e Frizz"
+        },
+        {
+          "image": [
+            {
+              "image": [],
+              "video": [],
+              "url": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/progres-organic/7c3c4813-a3ef-4d96-b376-f8825db896e4/WhatsApp-Image-2024-10-03-at-10.56.10.jpeg"
+            }
+          ],
+          "children": [],
+          "url": "/cabelos-tratamento/cronograma-capilar",
+          "name": "Cronograma Capilar"
+        },
+        {
+          "image": [],
+          "children": [],
+          "url": "/cabelos-tratamento/finalizadores",
+          "name": "Finalizadores"
+        },
+        {
+          "image": [],
+          "children": [],
+          "url": "/cabelos-tratamento/mascaras-de-tratamentos",
+          "name": "Máscaras de Tratamentos"
+        },
+        {
+          "image": [],
+          "children": [],
+          "url": "/cabelos-tratamento/manutencao-home-care",
+          "name": "Manutenção Home Care"
+        }
+      ],
+      "image": [
+        {
+          "image": [],
+          "video": []
+        },
+        {
+          "image": [],
+          "video": [],
+          "url": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/progres-organic/7c3c4813-a3ef-4d96-b376-f8825db896e4/WhatsApp-Image-2024-10-03-at-10.56.10.jpeg"
+        }
+      ],
+      "url": "/cabelos-tratamento",
+      "name": "Tratamento Capilar"
+    },
+    {
+      "children": [],
+      "image": [],
+      "name": "Para Salões",
+      "url": "/para-saloes"
+    },
+    {
+      "children": [
+        {
+          "image": [],
+          "children": [],
+          "url": "/por-tipo-de-cabelo/cabelos-loiros-luzes-mechas",
+          "name": "Cabelos Loiros - Luzes - Mechas"
+        },
+        {
+          "image": [],
+          "children": [],
+          "url": "/por-tipo-de-cabelo/cabelos-grossos-afros-cacheados",
+          "name": "Cabelos Grossos - Afros - Cacheados"
+        },
+        {
+          "image": [],
+          "children": [],
+          "name": "Cabelos Finos",
+          "url": "/por-tipo-de-cabelo/cabelos-finos"
+        }
+      ],
+      "image": [],
+      "url": "/por-tipo-de-cabelo/cabelos-finos",
+      "name": "Por tipo de Cabelo"
+    },
+    {
+      "children": [],
+      "image": [],
+      "url": "/promocao-do-mes",
+      "name": "Promoção do Mês"
+    },
+    {
+      "children": [],
+      "image": [],
+      "url": "/kits-promocionais",
+      "name": "Kits Promocionais"
+    }
+  ],
+  "__resolveType": "commerce/loaders/navbar.ts"
+}

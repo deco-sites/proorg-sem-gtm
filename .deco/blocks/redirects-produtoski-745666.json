@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/produtos/kit-shampoo-e-condicionador-amazon-therapy-com-lupulo-yacon-alfafa-2x500ml",
+    "to": "/produto/kit-shampoo-e-condicionador-amazon-therapy-com-lupulo-yacon-alfafa-2x500ml-21?skuId=KIT-ANTIQUEDA-AMAZON-PAI",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

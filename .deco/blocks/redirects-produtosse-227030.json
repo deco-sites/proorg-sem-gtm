@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/produtos/selagem-organica-bellaliss-com-blends-de-vitaminas-e-oleo-de-argan-1-litro",
+    "to": "/produto/selagem-organica-bellaliss-com-blends-de-vitaminas-e-oleo-de-argan-1-litro-39?skuId=SELAGEM-ORGANICA-1L-PAI",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

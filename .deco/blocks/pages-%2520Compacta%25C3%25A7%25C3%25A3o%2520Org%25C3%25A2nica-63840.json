@@ -1,0 +1,101 @@
+{
+  "name": " Compactação Orgânica",
+  "path": "/progressiva-organica/compactacao-organica",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "commerce/sections/Seo/SeoPLPV2.tsx",
+        "jsonLD": {
+          "__resolveType": "PLP Loader"
+        }
+      }
+    },
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "PO-whatsapp"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Images/WideBanner.tsx",
+        "images": {
+          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/496b5e00-5aea-4021-85aa-ff3e4fec95da",
+          "desktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/progres-organic/204040a5-b2cc-4a78-a04f-4e7b36c47fef/WhatsApp-Image-2024-10-03-at-10.56.13.jpeg"
+        },
+        "alt": "Compactação Amazon Therapy é o melhor método de realinhamento, indicado para a transformação capilar, reduzir o volume e frizz. Cabelos Lisos e Saudáveis."
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/SearchResult.tsx",
+        "page": {
+          "data": {
+            "__resolveType": "vnda/loaders/productListingPage.ts",
+            "count": 12,
+            "tags": [
+              "compactacao-amazon-therapy"
+            ],
+            "filterOperator": {
+              "type_tags": "and",
+              "property2": "and",
+              "property3": "and",
+              "property1": "and"
+            },
+            "filterByTags": true
+          },
+          "extensions": [],
+          "__resolveType": "commerce/loaders/product/extensions/listingPage.ts"
+        },
+        "layout": {
+          "columns": {
+            "mobile": 2,
+            "desktop": 4
+          },
+          "variant": "aside",
+          "pagination": "pagination",
+          "filtersByPrice": [
+            {
+              "minPrice": "1,00",
+              "maxPrice": "2,99"
+            },
+            {
+              "minPrice": "3,00",
+              "maxPrice": "6,00"
+            }
+          ]
+        },
+        "startingPage": 1,
+        "title": "Compactação Amazon Therapy",
+        "filtersByPrice": [
+          {
+            "minPrice": 1,
+            "maxPrice": 3,
+            "selected": false
+          },
+          {
+            "minPrice": 3,
+            "maxPrice": 6
+          }
+        ],
+        "subtitle": "Compactação Amazon Therapy é o melhor método de realinhamento, indicado para a transformação capilar, reduzir o volume e frizz. Cabelos Lisos e Saudáveis."
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

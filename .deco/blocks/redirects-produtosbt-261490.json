@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/produtos/btx-capilar-100-organico-vegano-natuvegan-btx-500g",
+    "to": "/produto/btx-capilar-100-organico-vegano-natuvegan-btx-500g-11",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

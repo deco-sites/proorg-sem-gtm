@@ -1,0 +1,72 @@
+{
+  "name": "Category Page",
+  "path": "/:slug",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "commerce/sections/Seo/SeoPLPV2.tsx",
+        "jsonLD": {
+          "__resolveType": "vnda/loaders/productListingPage.ts",
+          "tags": [],
+          "filterOperator": {
+            "type_tags": "and",
+            "property1": "and",
+            "property2": "and",
+            "property3": "and"
+          },
+          "count": 12
+        }
+      }
+    },
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/SearchResult.tsx",
+        "page": {
+          "__resolveType": "vnda/loaders/productListingPage.ts",
+          "tags": [],
+          "filterOperator": {
+            "type_tags": "and",
+            "property1": "and",
+            "property2": "and",
+            "property3": "and"
+          },
+          "count": 12,
+          "slug": {
+            "__resolveType": "website/functions/requestToParam.ts",
+            "param": "slug"
+          }
+        },
+        "layout": {
+          "columns": {
+            "mobile": 2,
+            "desktop": 4
+          },
+          "variant": "aside",
+          "pagination": "show-more"
+        },
+        "startingPage": 1
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "PO-whatsapp"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

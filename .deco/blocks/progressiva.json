@@ -1,0 +1,58 @@
+{
+  "__resolveType": "site/sections/Theme/Theme.tsx",
+  "colorScheme": "any",
+  "buttonStyle": {
+    "--border-btn": "1px",
+    "--rounded-btn": "0.2rem",
+    "--btn-focus-scale": "1",
+    "--animation-btn": "0.25s"
+  },
+  "otherStyles": {
+    "--rounded-box": "1rem",
+    "--rounded-badge": "1.9rem",
+    "--animation-input": "0.2s",
+    "--tab-border": "1px",
+    "--tab-radius": "0.5rem"
+  },
+  "mode": "dark",
+  "mainColors": {
+    "primary": "#06503C",
+    "secondary": "#5A421B",
+    "base-100": "#fff",
+    "tertiary": " #9CC146",
+    "neutral": "#D9D9D9",
+    "warning": "#D31818"
+  },
+  "font": {
+    "__resolveType": "website/loaders/fonts/googleFonts.ts",
+    "fonts": [
+      {
+        "variations": [
+          {
+            "weight": "700"
+          },
+          {
+            "weight": "600"
+          },
+          {
+            "weight": "500"
+          },
+          {
+            "weight": "400"
+          },
+          {
+            "weight": "300"
+          },
+          {
+            "weight": "100"
+          }
+        ],
+        "family": "Montserrat"
+      }
+    ]
+  },
+  "complementaryColors": {
+    "base-200": "#ffffff",
+    "base-300": "#FF1493"
+  }
+}

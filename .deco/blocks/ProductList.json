@@ -1,0 +1,14 @@
+{
+  "__resolveType": "site/sections/Product/ProductShelf.tsx",
+  "title": "Promoções da semana",
+  "cta": "/",
+  "products": {
+    "__resolveType": "vnda/loaders/productList.ts",
+    "sort": "newest",
+    "tags": [],
+    "typeTags": [],
+    "ids": [],
+    "count": 10
+  },
+  "subtitle": "Os mais procurados pelos nossos clientes"
+}

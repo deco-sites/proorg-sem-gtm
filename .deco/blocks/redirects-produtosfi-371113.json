@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/produtos/finalizador-prolisse-finish-leave-in-250ml",
+    "to": "/produto/finalizador-prolisse-finish-leave-in-250ml-16?skuId=7767",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

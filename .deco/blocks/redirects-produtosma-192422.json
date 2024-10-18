@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/produtos/mascara-vegan-hair-nutricao-300gr",
+    "to": "/produto/mascara-vegan-hair-nutricao-300gr-37?skuId=MASC-VEGAN-300G-PAI",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

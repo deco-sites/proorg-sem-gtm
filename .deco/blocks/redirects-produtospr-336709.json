@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/produtos/progressiva-organica-liso-100-sem-formol-2x300ml",
+    "to": "/produto/progressiva-organica-liso-100-sem-formol-2x300ml-33",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

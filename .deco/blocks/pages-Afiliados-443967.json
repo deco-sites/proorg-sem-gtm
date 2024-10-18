@@ -1,0 +1,52 @@
+{
+  "name": "Afiliados",
+  "path": "/programa-de-afiliados",
+  "sections": [
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "PO-whatsapp"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "PO-whatsapp"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Informations.tsx",
+        "title": "Programa de Afiliados",
+        "text": "<h2 style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><strong>Programa de Afiliados - Progressiva Orgânica Cosméticos - Veganterapia e Amazonterapia</strong></h2><p><br>Bem-vindo(a) ao programa de afiliados da Progressiva Orgânica! Se você é apaixonado(a) por produtos orgânicos e veganos e deseja promover uma solução de alisamento capilar sustentável e de alta qualidade, junte-se a nós e comece a ganhar comissões hoje mesmo!</p><p><strong>Como funciona:</strong></p><p><strong>Inscrição e Aprovação:</strong></p><p>Clique no link de inscrição fornecido abaixo para se cadastrar como afiliado(a).<br>Avaliaremos suas informações e suas mídias sociais&nbsp;para garantir que esteja alinhado com nossos valores e diretrizes.<br>Após a aprovação, você receberá um e-mail de confirmação com seu link de afiliado exclusivo e acesso ao painel do afiliado.</p><p><br><strong>Links e Materiais Promocionais:</strong></p><p>Acesse o painel do afiliado para obter seu link de afiliado exclusivo.<br>Utilize o seu link em suas redes sociais, e-mails, WhatsApp para a página de vendas da Progressiva Orgânica veganterapia e Amazonterapia.<br>Forneceremos materiais promocionais como banners, imagens e textos que você pode utilizar em suas campanhas de divulgação.</p><p><br><strong>Comissões:</strong></p><p>Você receberá uma comissão de 10% sobre o valor de cada venda realizada através do seu link de afiliado.<br>As comissões são rastreadas automaticamente pelo sistema e serão pagas mensalmente (até o 10º dia útil do mês seguinte).</p><p><br data-mce-bogus=\"1\"></p><p><strong>Monitoramento e Relatórios:</strong></p><p>Acompanhe suas vendas e comissões em tempo real através do painel do afiliado.<br>Relatórios detalhados estarão disponíveis para você analisar o desempenho de suas campanhas.</p><p><br><strong>Suporte e Orientação:</strong></p><p>Oferecemos suporte dedicado aos nossos afiliados para ajudá-los a obter sucesso em suas campanhas de promoção.<br>Forneceremos dicas e estratégias de marketing para maximizar seus resultados.</p><p><br><strong>Promoções e Bônus:</strong></p><p>Periodicamente, realizaremos promoções especiais e bônus para incentivar o desempenho excepcional de nossos afiliados. Fique atento(a) às nossas atualizações!<br>Link de afiliação:&nbsp;<a href=\"http://bit.ly/43VxF1I\" data-mce-href=\"http://bit.ly/43VxF1I\">bit.ly/43VxF1I</a></p><p>Junte-se a nós agora mesmo e faça parte da missão da Progressiva Orgânica Veganteparia de oferecer uma opção de alisamento capilar orgânica, livre de crueldade animal e amiga do meio ambiente. Seja uma voz ativa na disseminação dos valores de sustentabilidade e beleza natural!</p><p>Para quaisquer dúvidas ou suporte, entre em contato conosco pelo e-mail [afiliados@progressivaorganica.com.br] ou pelo painel do afiliado.</p><p>Obrigado por se tornar um(a) afiliado(a) da Progressiva Orgânica Veganteparia ou Amazon terapia. Juntos, faremos a diferença no mercado de beleza consciente!</p><p>Seja um Afiliado da Progressiva Orgânica Comece já a vender os melhores produtos para cabelo pela internet e conquiste uma renda extra.</p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/ProductShelf.tsx",
+        "products": {
+          "__resolveType": "vnda/loaders/productList.ts",
+          "count": 10,
+          "sort": "newest"
+        },
+        "title": "Os mais vendidos",
+        "subtitle": "Os clientes também compraram"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

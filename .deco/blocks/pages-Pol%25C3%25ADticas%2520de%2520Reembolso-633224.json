@@ -1,0 +1,46 @@
+{
+  "name": "Políticas de Reembolso",
+  "path": "/politica-de-reembolso",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "PO-whatsapp"
+      }
+    },
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Informations.tsx",
+        "title": "Políticas de Reembolso",
+        "text": "<p class=\"font_8\"><strong>POLÍTICA DE REEMBOLSO</strong></p><p class=\"font_8\"><br data-mce-bogus=\"1\"></p><p class=\"font_8\"><strong>1-</strong>&nbsp;O site Progressiva Orgânica pratica a politica de reembolso seguindo o código de defesa do consumidor como segue: o direito de arrependimento de compra&nbsp;(prazo de 7 (sete dias) a partir do recebimento do produto)&nbsp;</p><p class=\"font_8\"><br data-mce-bogus=\"1\"></p><p class=\"font_8\"><strong>2-</strong>&nbsp;Em caso de produto impróprio pra consumo (data de validade vencida).</p><p class=\"font_8\"><br data-mce-bogus=\"1\"></p><p class=\"font_8\"><strong>3-</strong>&nbsp;<strong>O produto não pode conter sinais de utilização</strong>, dever estar na embalagem original, com todos os&nbsp;<strong>lacres, etiquetas, acessórios e manuais. (NÃO ACEITAMOS DEVOLUÇÃO DE PRODUTOS COM INDÍCIO DE USO)</strong></p><p class=\"font_8\"><br data-mce-bogus=\"1\"></p><p class=\"font_8\"><strong>3-1 Não nos responsabilizamos pelo mau uso do produto.</strong></p><p class=\"font_8\"><br><strong>4-1</strong>&nbsp;Para solicitar o reembolso referente ao&nbsp;<strong>arrependimento</strong>&nbsp;<strong>de compra</strong>&nbsp;o cliente deverá informar o seu site progressiva Orgânica através&nbsp;do e-mail&nbsp;<a class=\"auto-generated-link\" href=\"mailto:sac@progressivaorganica.com.br\" data-mce-href=\"mailto:sac@progressivaorganica.com.br\">sac@progressivaorganica.com.br</a>, após verificar se a compra se enquadra neste termo de reembolso será disponibilizado um código de postagem para devolução do produto para o nosso centro de distribuição, caso o produto já tenha sido recebido.</p><p class=\"font_8\"><br data-mce-bogus=\"1\"></p><p class=\"font_8\"><strong>4-2 Caso o a desistência de compra ocorra antes do recebimento pelo destinatário (cliente)&nbsp;</strong><strong>&nbsp;e o produto&nbsp;</strong><strong>já tenha sido enviado, o destinatário (cliente) deve recusar o recebimento do objeto (pedido) para que o mesmo retorne&nbsp;ao nosso centro de distribuição, assim que recebermos o objeto&nbsp;seguiremos com o cancelamento do pedido e estorno do valor pago.</strong></p><p class=\"font_8\"><br data-mce-bogus=\"1\"></p><p class=\"font_8\"><strong>5-</strong>&nbsp;O estorno do valor pago ocorrerá do mesmo modo do pagamento escolhido no&nbsp;momento da compra, cartão de crédito será solicitado o estorno a operadora do cartão e o valor será sinalizado em sua próxima fatura.<br><strong>5-1</strong>&nbsp;Boleto bancário, o&nbsp;reembolso será realizado pelo intermediador de pagamentos YAPAY onde irá enviar as informações via e-mail, o mesmo cadastrado no ato da compra com as informações para receber o valor do reembolso.</p><p class=\"font_8\"><br data-mce-bogus=\"1\"></p><p class=\"font_8\"><strong>6-</strong>&nbsp;<strong>O Estorno só ocorrerá após o devido recebimento do produto em nosso centro de distribuição</strong>.&nbsp;Estando fora do prazo do item “1”, ou apresente sinais de utilização conforme item&nbsp;\"3,3-1\", não haverá reembolso, e o produto será enviado novamente&nbsp;ao cliente.</p><p class=\"font_8\"><br data-mce-bogus=\"1\"></p><p class=\"font_8\"><strong>7-</strong>&nbsp;O Contato para solicitar reembolso deve ser realizado única e exclusivamente através do e-mail do site&nbsp;SAC@PROGRESSIVAORGANICA.COM.BR&nbsp;para concentrar as informações e deixa tudo documentado sobre a solicitação.</p><p class=\"font_8\"><br data-mce-bogus=\"1\"></p><p class=\"font_8\"><strong>7-1 O cliente deve informar no e-mail o nome, número do pedido e motivo da solicitação do reembolso.</strong></p><p class=\"font_8\"><br data-mce-bogus=\"1\"></p><p class=\"font_8\"><br data-mce-bogus=\"1\"></p><p class=\"font_8\"><br data-mce-bogus=\"1\"></p><p class=\"font_8\"><br data-mce-bogus=\"1\"></p><p class=\"font_8\"><strong>Atenciosamente;</strong></p><p class=\"font_8\"><strong>Site Progressiva Orgânica</strong></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/ProductShelf.tsx",
+        "products": {
+          "__resolveType": "vnda/loaders/productList.ts",
+          "count": 7,
+          "sort": "newest"
+        },
+        "title": "Os Mais Vendidos",
+        "subtitle": "Os mais procurados pelos nossos clientes"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

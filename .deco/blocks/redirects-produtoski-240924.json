@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/produtos/kit-manutencao-capilar-home-care-amazon-therapy-3x300gr",
+    "to": "/produto/kit-manutencao-capilar-home-care-amazon-therapy-3x300gr-17?skuId=KIT-HOME-AMAZON-PAI",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

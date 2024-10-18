@@ -1,0 +1,37 @@
+{
+  "__resolveType": "site/sections/Images/ShoppableBanner.tsx",
+  "image": {
+    "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/5d409902-8c88-4a85-a474-c394a02dce6e",
+    "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/423a42a7-576e-4408-ae0e-05039711be55",
+    "altText": "treatment"
+  },
+  "pins": [
+    {
+      "mobile": {
+        "x": 4,
+        "y": 4
+      },
+      "link": "/",
+      "label": "tyrsdfghyrters"
+    }
+  ],
+  "title": {
+    "layout": {
+      "position": "justify-end"
+    },
+    "content": "erfgthyju"
+  },
+  "text": {
+    "layout": {
+      "position": "text-center"
+    },
+    "content": "dcfgtrhyjmhnb vfdregthy"
+  },
+  "link": {
+    "layout": {
+      "position": "justify-start"
+    },
+    "text": "fvgthytnbgf",
+    "href": "rews"
+  }
+}

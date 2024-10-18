@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/produtos/kit-natuvegan-amazon-therapy-compactacao-organica-2x300ml",
+    "to": "/produto/kit-natuvegan-amazon-therapy-compactacao-organica-2x300ml-42",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

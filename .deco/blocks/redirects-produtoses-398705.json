@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/produtos/escova-progressiva-vegan-hair-organica-com-biotina-e-macadamia-sem-formol-2x1000ml-mascara-capilar-300g",
+    "to": "/produto/escova-progressiva-vegan-hair-organica-com-biotina-e-macadamia-sem-formol-2x1000ml-mascara-capilar-300g-23",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

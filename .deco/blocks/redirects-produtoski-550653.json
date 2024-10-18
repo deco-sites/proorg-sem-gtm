@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/produtos/kit-compactacao-natuvegan-amazon-supreme-1-litro-home-care-protetor-termico",
+    "to": "/produto/kit-compactacao-natuvegan-amazon-supreme-1-litro-home-care-protetor-termico-24?skuId=COMBO-SUPREME-HOME-PROTETOR",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

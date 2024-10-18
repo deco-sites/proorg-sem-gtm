@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/produtos/cronograma-capilar-profissional-amazon-therapy-3x500g",
+    "to": "/produto/cronograma-capilar-profissional-amazon-therapy-3x500g-14",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

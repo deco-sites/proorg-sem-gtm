@@ -1,0 +1,33 @@
+{
+  "name": "Perguntas Frequentes",
+  "path": "/perguntas-frequentes",
+  "sections": [
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "PO-whatsapp"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Informations.tsx",
+        "text": "<p><strong><span style=\"font-size: 18pt;\" data-mce-style=\"font-size: 18pt;\">Dúvidas Frequentes Sobre a Progressiva Orgânica:&nbsp;</span></strong></p><p><strong><span style=\"font-size: 18pt;\" data-mce-style=\"font-size: 18pt;\"><br data-mce-bogus=\"1\"></span></strong></p><p><strong><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">A Progressiva Orgânica tem resultados todos os tipos de cabelo?</span></strong></p><p>Com o passo a passo correto, você conquistará um realinhamento perfeito, redução de volume e frizz, além de um brilho espelhado deslumbrante. Fique atento às variáveis que podem influenciar no resultado final, como a forma de lavagem, a quantidade e tempo de aplicação do produto, a espessura dos fios ao pranchar e a frequência necessária para obter o cabelo perfeitamente alinhado. Garanta um visual impecável seguindo essas dicas!</p><p><br data-mce-bogus=\"1\"></p><h2><strong><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Já tenho química no cabelo, posso usar a progressiva orgânica?</span></strong></h2><p>Experimente a progressiva Orgânica aqui do site oficial, um produto totalmente compatível com qualquer química capilar! Recomendamos fortemente que você faça o teste de mechas para garantir a resistência e saúde dos seus cabelos. Não perca a chance de ter fios incríveis e saudáveis!</p><p><br data-mce-bogus=\"1\"></p><h2><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\"><strong>Quem é loira ou possui mechas pode usar a progressiva orgânica?</strong></span></h2><p>Com certeza! Nossa fórmula é perfeita para cabelos loiros, com luzes e mechas. Não deixe de fazer o teste de mechas para comprovar a resistência do seu cabelo. Experimente e se surpreenda com os resultados!</p><p><br data-mce-bogus=\"1\"></p><h2><strong><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Posso pranchar/ escovar com o produto no cabelo?</span></strong></h2><p>Claro! Se preferir, você pode simplesmente remover o excesso da progressivaorgânica durante o enxágue.</p><p><br data-mce-bogus=\"1\"></p><h2><strong><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">A Progressiva Orgânica vai desbotar a cor do meu cabelo?</span></strong></h2><p>Nossa progressiva orgânica é segura para o seu cabelo, evitando o desbotamento. No entanto, é importante estar atento a outros fatores que podem causar esse problema, como o uso da prancha em temperaturas muito altas. Cuide da saúde e da cor dos seus fios com nossas recomendações!</p><p><br data-mce-bogus=\"1\"></p><h2><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\"><strong>Gestantes e Lactantes podem usar aprogressiva orgânica?</strong></span></h2><p>Claro! Sugerimos fortemente que busque aconselhamento médico antes. Encaminhe a lista de ingredientes do produto ao seu médico e peça a autorização necessária. Isso é válido apenas para produtos adquridos aqui no site oficial progressiva orgânica.</p><p><br data-mce-bogus=\"1\"></p>",
+        "title": "FAQ"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

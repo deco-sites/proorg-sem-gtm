@@ -1,0 +1,122 @@
+{
+  "__resolveType": "website/pages/Page.tsx",
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "commerce/sections/Seo/SeoPLPV2.tsx",
+        "jsonLD": {
+          "__resolveType": "PLP Loader"
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "PO-whatsapp"
+      }
+    },
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Images/WideBanner.tsx",
+        "images": {
+          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/496b5e00-5aea-4021-85aa-ff3e4fec95da",
+          "desktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/progres-organic/95f9611e-796c-4d77-8fc6-4ce9e0b704ae/WhatsApp-Image-2024-10-03-at-10.56.12-(1).jpeg"
+        },
+        "alt": "salao de beleza "
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/SearchResult.tsx",
+        "page": {
+          "data": {
+            "__resolveType": "vnda/loaders/productListingPage.ts",
+            "count": 12,
+            "tags": [
+              "por-tipo-de-cabelo"
+            ],
+            "filterOperator": {
+              "type_tags": "and",
+              "property2": "and",
+              "property3": "and",
+              "property1": "and"
+            },
+            "filterByTags": false,
+            "slug": {
+              "__resolveType": "website/functions/requestToParam.ts",
+              "param": "slug"
+            }
+          },
+          "extensions": [],
+          "__resolveType": "commerce/loaders/product/extensions/listingPage.ts"
+        },
+        "layout": {
+          "columns": {
+            "mobile": 2,
+            "desktop": 4
+          },
+          "variant": "aside",
+          "pagination": "pagination",
+          "filtersByPrice": [
+            {
+              "minPrice": "1,00",
+              "maxPrice": "2,99"
+            },
+            {
+              "minPrice": "3,00",
+              "maxPrice": "6,00"
+            }
+          ]
+        },
+        "startingPage": 1,
+        "title": "Por tipo de cabelo",
+        "subtitle": "Descubra produtos eficazes para tratamento e manutenção de cabelos. Hidratação, redução de volume e frizz para todos os tipos de cabelo.",
+        "filtersByPrice": [
+          {
+            "minPrice": 1,
+            "maxPrice": 3,
+            "selected": false
+          },
+          {
+            "minPrice": 3,
+            "maxPrice": 6
+          }
+        ],
+        "categoryList": {
+          "title": "Por Tipo de Cabelo",
+          "links": [
+            {
+              "url": "por-tipo-de-cabelo/cabelos-loiros-luzes-mechas",
+              "label": "Cabelos Loiros - Luzes - Mechas"
+            },
+            {
+              "url": "por-tipo-de-cabelo/cabelos-grossos-afros-cacheados",
+              "label": "Cabelos Grossos - Afros - Cacheados"
+            },
+            {
+              "url": "por-tipo-de-cabelo/por-tipo-de-cabelo/cabelos-finos",
+              "label": "Cabelos Finos"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer"
+      }
+    }
+  ],
+  "name": "Por Tipo de Cabelo",
+  "path": "/por-tipo-de-cabelo"
+}

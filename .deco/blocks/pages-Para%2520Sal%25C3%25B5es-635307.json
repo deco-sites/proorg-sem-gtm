@@ -1,0 +1,108 @@
+{
+  "__resolveType": "website/pages/Page.tsx",
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "commerce/sections/Seo/SeoPLPV2.tsx",
+        "jsonLD": {
+          "__resolveType": "PLP Loader"
+        }
+      }
+    },
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "PO-whatsapp"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Images/WideBanner.tsx",
+        "images": {
+          "mobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/progres-organic/f1e84f48-60b5-4e30-8bf5-0a38cfd02970/WhatsApp-Image-2024-10-03-at-10.56.13.jpeg",
+          "desktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/progres-organic/f1e84f48-60b5-4e30-8bf5-0a38cfd02970/WhatsApp-Image-2024-10-03-at-10.56.13.jpeg"
+        },
+        "alt": "salao de beleza - Encontre as melhores progressivas orgânicas"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/SearchResult.tsx",
+        "page": {
+          "data": {
+            "__resolveType": "vnda/loaders/productListingPage.ts",
+            "count": 12,
+            "tags": [
+              "para-saloes"
+            ],
+            "filterOperator": {
+              "type_tags": "and",
+              "property2": "and",
+              "property3": "and",
+              "property1": "and"
+            },
+            "filterByTags": false,
+            "slug": {
+              "__resolveType": "website/functions/requestToParam.ts",
+              "param": "slug"
+            }
+          },
+          "extensions": [],
+          "__resolveType": "commerce/loaders/product/extensions/listingPage.ts"
+        },
+        "layout": {
+          "columns": {
+            "mobile": 2,
+            "desktop": 4
+          },
+          "variant": "aside",
+          "pagination": "pagination",
+          "filtersByPrice": [
+            {
+              "minPrice": "1,00",
+              "maxPrice": "2,99"
+            },
+            {
+              "minPrice": "3,00",
+              "maxPrice": "6,00"
+            }
+          ]
+        },
+        "startingPage": 1,
+        "filtersByPrice": [
+          {
+            "minPrice": 1,
+            "maxPrice": 3,
+            "selected": false
+          },
+          {
+            "minPrice": 3,
+            "maxPrice": 6
+          }
+        ],
+        "title": "Para Salões",
+        "categoryList": {
+          "links": []
+        },
+        "subtitle": "Procurando produtos para abastecer seu salão? Aqui na Progressiva Orgânica, você encontra uma grande infinidade de produtos profissionais para salão de beleza."
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer"
+      }
+    }
+  ],
+  "name": "Para Salões",
+  "path": "/para-saloes"
+}

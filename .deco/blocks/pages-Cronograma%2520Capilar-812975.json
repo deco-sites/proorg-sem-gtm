@@ -1,0 +1,101 @@
+{
+  "name": "Cronograma Capilar",
+  "path": "/cabelos-tratamento/cronograma-capilar",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "commerce/sections/Seo/SeoPLPV2.tsx",
+        "jsonLD": {
+          "__resolveType": "PLP Loader"
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "PO-whatsapp"
+      }
+    },
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Images/WideBanner.tsx",
+        "images": {
+          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/496b5e00-5aea-4021-85aa-ff3e4fec95da",
+          "desktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/progres-organic/981302e6-e59d-4228-9b13-6a4c6376ab5f/WhatsApp-Image-2024-10-03-at-10.56.11.jpeg"
+        },
+        "alt": "Cronograma capilar completo para recuperar cabelos danificados, tratamento ideal pós progressivas e processos químicos. Tratamentos que oferecem a nutrição, hidratação e a reconstrução para fios 100% saudáveis. Adquira já em até 6x sem juros e Frete grátis!"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/SearchResult.tsx",
+        "page": {
+          "data": {
+            "__resolveType": "vnda/loaders/productListingPage.ts",
+            "count": 12,
+            "tags": [
+              "cronograma-capilar"
+            ],
+            "filterOperator": {
+              "type_tags": "and",
+              "property2": "and",
+              "property3": "and",
+              "property1": "and"
+            },
+            "filterByTags": true
+          },
+          "extensions": [],
+          "__resolveType": "commerce/loaders/product/extensions/listingPage.ts"
+        },
+        "layout": {
+          "columns": {
+            "mobile": 2,
+            "desktop": 4
+          },
+          "variant": "aside",
+          "pagination": "pagination",
+          "filtersByPrice": [
+            {
+              "minPrice": "1,00",
+              "maxPrice": "2,99"
+            },
+            {
+              "minPrice": "3,00",
+              "maxPrice": "6,00"
+            }
+          ]
+        },
+        "startingPage": 1,
+        "title": "Cronograma Capilar",
+        "filtersByPrice": [
+          {
+            "minPrice": 1,
+            "maxPrice": 3,
+            "selected": false
+          },
+          {
+            "minPrice": 3,
+            "maxPrice": 6
+          }
+        ],
+        "subtitle": "Cronograma capilar completo para recuperar cabelos danificados, tratamento ideal pós progressivas e processos químicos. Tratamentos que oferecem a nutrição, hidratação e a reconstrução para fios 100% saudáveis. Adquira já em até 6x sem juros e Frete grátis!"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

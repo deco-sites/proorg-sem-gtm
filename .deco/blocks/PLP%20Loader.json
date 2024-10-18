@@ -1,0 +1,16 @@
+{
+  "data": {
+    "__resolveType": "vnda/loaders/productListingPage.ts",
+    "count": 12,
+    "tags": [],
+    "filterOperator": {
+      "type_tags": "and",
+      "property2": "and",
+      "property3": "and",
+      "property1": "and"
+    },
+    "filterByTags": false
+  },
+  "extensions": [],
+  "__resolveType": "commerce/loaders/product/extensions/listingPage.ts"
+}

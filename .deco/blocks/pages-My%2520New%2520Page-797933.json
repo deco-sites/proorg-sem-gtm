@@ -1,0 +1,48 @@
+{
+  "name": "Como Comprar",
+  "path": "/como-comprar",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "PO-whatsapp"
+      }
+    },
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Informations.tsx",
+        "title": "Como Comprar",
+        "text": "<p><strong>1.&nbsp;</strong>Escolha o produto que deseja comprar.</p><p><br data-mce-bogus=\"1\"></p><p><strong>2.&nbsp;</strong>Clique no botão de \"Agregar ao carrinho\" ou \"Comprar\". O seu produto será adicionado ao carrinho e você poderá seguir comprando, caso desejar.</p><p><br data-mce-bogus=\"1\"></p><p><strong>3.&nbsp;</strong>Você pode seguir agregando outros produtos ao carrinho ou, então, clicar em \"Finalizar Compra\".</p><p><br data-mce-bogus=\"1\"></p><p><strong>4.&nbsp;</strong>Complete com seus dados de contato e clique em \"Continuar\".</p><p><br data-mce-bogus=\"1\"></p><p><strong>5.&nbsp;</strong>Coloque o endereço de onde você deseja receber o produto. Logo clique em \"Continuar\".</p><p><br data-mce-bogus=\"1\"></p><p><strong>6.&nbsp;</strong>Selecione a forma de frete que desejar e clique em \"Continuar\".</p><p><br data-mce-bogus=\"1\"></p><p><strong>7.</strong>&nbsp;Escolha o meio de pagamento. Uma vez que você tenha escolhido o meio de pagamento, clique \"Continuar\".</p><p><br data-mce-bogus=\"1\"></p><p><strong>8.&nbsp;</strong>Finalmente na Confirmação da compra você pode revisar toda a informação sobre a mesma, inclusive os seus dados. Logo clique em \"Continuar\".</p><p><br data-mce-bogus=\"1\"></p><p><strong>9.</strong>&nbsp;Você será redirigido para outra tela para que complete os dados sobre a forma de pagamento escolhida. Depois de confirmar a compra receberá um email da nossa parte, esse não será um comprovante de pagamento.</p><p><br data-mce-bogus=\"1\"></p><p><strong>10.</strong> Uma vez creditado o pagamento, faremos um envio correspondente dos produtos que você comprou.</p><p><br></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/ProductShelf.tsx",
+        "products": {
+          "__resolveType": "vnda/loaders/productList.ts",
+          "count": 12,
+          "sort": "newest",
+          "tags": []
+        },
+        "title": "Os Mais Vendidos",
+        "subtitle": "Os clientes também compraram",
+        "cta": "/"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

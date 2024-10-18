@@ -1,0 +1,237 @@
+{
+  "name": "Product Page",
+  "path": "/produto/:slug",
+  "default": {
+    "possiblePaths": []
+  },
+  "sections": {
+    "__resolveType": "website/flags/multivariate.ts",
+    "variants": [
+      {
+        "value": [
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "commerce/sections/Seo/SeoPDPV2.tsx",
+              "jsonLD": {
+                "__resolveType": "PDP Loader"
+              },
+              "jsonLDs": [
+                {}
+              ]
+            }
+          },
+          {
+            "__resolveType": "Header"
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "PO-whatsapp"
+            }
+          },
+          {
+            "section": {
+              "__resolveType": "site/sections/Product/ProductDetails.tsx",
+              "page": {
+                "__resolveType": "PDP Loader"
+              }
+            },
+            "__resolveType": "website/sections/Rendering/Lazy.tsx"
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/BuyTogether.tsx",
+              "products": {
+                "__resolveType": "Preview vnda/loaders/productList.ts"
+              },
+              "page": {
+                "__resolveType": "Preview vnda/loaders/productDetailsPage.ts"
+              }
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/ProductShelfHorizontal.tsx",
+              "products": {
+                "__resolveType": "vnda/loaders/productList.ts",
+                "count": 3,
+                "sort": "newest",
+                "ids": [
+                  35,
+                  17,
+                  15
+                ]
+              },
+              "title": "Adicione Produtos Complementares ao Seu Carrinho e Tenha Resultados Surpreendentes!"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Product/ProductDescription.tsx",
+              "page": {
+                "__resolveType": "vnda/loaders/productDetailsPage.ts",
+                "slug": {
+                  "__resolveType": "website/functions/requestToParam.ts",
+                  "param": "slug"
+                }
+              }
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Product/ProductShelf.tsx",
+              "title": "Produtos relacionados",
+              "products": {
+                "__resolveType": "vnda/loaders/productList.ts",
+                "sort": "newest",
+                "tags": [],
+                "typeTags": [],
+                "ids": [],
+                "count": 10
+              },
+              "subtitle": "Os clientes também compraram"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "Footer"
+            }
+          }
+        ],
+        "rule": {
+          "__resolveType": "Mobile"
+        }
+      },
+      {
+        "value": [
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "commerce/sections/Seo/SeoPDPV2.tsx",
+              "jsonLD": {
+                "__resolveType": "PDP Loader"
+              },
+              "jsonLDs": [
+                {}
+              ]
+            }
+          },
+          {
+            "__resolveType": "Header"
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "PO-whatsapp"
+            }
+          },
+          {
+            "__resolveType": "site/sections/Product/ProductDetails.tsx",
+            "page": {
+              "__resolveType": "PDP Loader"
+            },
+            "sections": [
+              {
+                "__resolveType": "website/sections/Rendering/Lazy.tsx",
+                "section": {
+                  "__resolveType": "site/sections/BuyTogether.tsx",
+                  "products": {
+                    "__resolveType": "Preview vnda/loaders/productList.ts"
+                  },
+                  "page": {
+                    "__resolveType": "Preview vnda/loaders/productDetailsPage.ts"
+                  }
+                }
+              },
+              {
+                "__resolveType": "website/sections/Rendering/Lazy.tsx",
+                "section": {
+                  "__resolveType": "site/sections/ProductShelfHorizontal.tsx",
+                  "products": {
+                    "__resolveType": "vnda/loaders/productList.ts",
+                    "tags": [],
+                    "typeTags": [],
+                    "ids": [],
+                    "count": 3,
+                    "sort": "newest"
+                  },
+                  "title": "Adicione Produtos Complementares ao Seu Carrinho e Tenha Resultados Surpreendentes!",
+                  "cta": "/"
+                }
+              }
+            ],
+            "icons": [
+              {
+                "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/progres-organic/2e59d61a-74b9-4706-9be2-a8134991520a/compra.svg",
+                "title": "Compra",
+                "subtitle": "Segura"
+              },
+              {
+                "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/progres-organic/eb8b0b1d-7727-4e57-ba92-30c55fea4575/loja.svg",
+                "title": "Loja",
+                "subtitle": "Oficial"
+              },
+              {
+                "title": "Produtos",
+                "subtitle": "premium",
+                "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/progres-organic/88107288-4677-4cd9-a738-853efe466e25/product.svg"
+              },
+              {
+                "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/progres-organic/35f91c93-2042-4319-9cf8-9336d883a64d/truck.svg",
+                "title": "Entrega",
+                "subtitle": "garantida"
+              }
+            ],
+            "paymentIcons": {
+              "pix": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/49e21b79-057d-4ef4-b897-4eb60a30bf31",
+              "boleto": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/progres-organic/2566a300-4d45-4cef-a9a5-0dfdcfea4b84/boleto-logo.png",
+              "creditCard": [
+                "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/953342f5-a81a-4608-b88f-c872528bd8cb",
+                "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/9dbe2639-a768-493d-8462-e99adc7297aa",
+                "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/7bd4b051-fb26-4bb2-8ddc-237191e75522",
+                "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/c6b457f5-e404-4b76-af4c-aa4e593ece12",
+                "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/a15ec7a0-dc3c-4ade-a0a7-b30a47685852",
+                "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/7716a5ed-5b60-46e7-8c45-b2a6d8973215"
+              ]
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Product/ProductShelf.tsx",
+              "title": "Produtos relacionados",
+              "products": {
+                "__resolveType": "vnda/loaders/productList.ts",
+                "tags": [
+                  "promocao-do-mes",
+                  "kits-promocionais"
+                ],
+                "typeTags": [],
+                "ids": [],
+                "count": 10,
+                "wildcard": false
+              },
+              "subtitle": "Os clientes também compraram"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "Footer"
+            }
+          }
+        ],
+        "rule": {
+          "__resolveType": "website/matchers/always.ts"
+        }
+      }
+    ]
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

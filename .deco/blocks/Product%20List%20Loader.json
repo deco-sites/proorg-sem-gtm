@@ -1,0 +1,14 @@
+{
+  "__resolveType": "shopify/loaders/ProductList.ts",
+  "props": {
+    "sort": "",
+    "count": 6,
+    "query": "Shirts"
+  },
+  "filters": {
+    "tags": [],
+    "productTypes": [],
+    "productVendors": [],
+    "variantOptions": []
+  }
+}

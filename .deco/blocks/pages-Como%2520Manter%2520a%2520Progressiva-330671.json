@@ -1,0 +1,46 @@
+{
+  "name": "Como Manter a Progressiva",
+  "path": "/como-manter-a-progressiva-organica-por-mais-tempo",
+  "sections": [
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "PO-whatsapp"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Informations.tsx",
+        "text": "<h1><strong>COMO MANTER A PROGRESSIVA ORGÂNICA POR MAIS TEMPO?</strong></h1><p><br>Introdução<br>Manter a <a data-mce-href=\"https://www.progressivaorganica.com.br\" href=\"https://www.progressivaorganica.com.br\" title=\"Progressiva Orgânica\"><strong><span style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\">PROGRESSIVA ORGÂNICA</span>﻿</strong></a> por mais tempo é um desejo comum entre muitas pessoas que buscam cabelos lisos e saudáveis. A progressiva, além de proporcionar um visual elegante, facilita o dia a dia ao reduzir o volume e o frizz. Neste guia, vamos explorar algumas dicas eficazes para prolongar a durabilidade desse tratamento nos cabelos.</p><p><strong>Cuidados Imediatos Após a Progressiva</strong><br>Após realizar a progressiva, é fundamental cuidar dos fios para garantir que o efeito se mantenha por mais tempo. Aqui estão algumas práticas recomendadas:</p><p><strong>Não molhar os cabelos:</strong> Evite molhar os cabelos nas primeiras 48 horas após o tratamento.<br><strong>Não prender os cabelos: </strong>Evite prender os fios, já que isso pode marcar e alterar a forma do cabelo.<br><strong>Evitar o calor excessivo:</strong> Use o nosso Protetor Termico e não usar chapinha no dia a dia. procedimento.</p><p><br><strong>Escolha dos Produtos Certos</strong><br>Utilizar produtos específicos para cabelos com progressiva ajuda a manter o efeito liso. Considere:</p><p><strong>Shampoos sem sulfato:</strong> Eles são menos agressivos e ajudam a manter a hidratação dos fios.<br><strong>Condicionadores e máscaras hidratantes: </strong>Escolha produtos que contenham ingredientes como óleo de argan ou queratina. Use nosso kit Home Care.</p><p><br><strong>Dicas de Lavagem</strong><br>A maneira como você lava o cabelo também influencia a durabilidade da progressiva. Siga estas dicas:</p><p><strong>Evite água quente:</strong> Lave o cabelo com água morna ou fria para não abrir as cutículas dos fios.<br><strong>Lave menos vezes por semana:</strong> Reduzir a frequência de lavagens ajuda a conservar os óleos naturais do cabelo.</p><p><br><strong>Hidratação Regular</strong><br>A hidratação é essencial para manter a saúde dos fios. Faça hidratações semanais com produtos ricos em nutrientes. Considere também realizar um tratamento de reconstrução a cada 15 dias. <span style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\"><a data-mce-href=\"https://www.progressivaorganica.com.br/cabelos-tratamento/cronograma-capilar\" href=\"https://www.progressivaorganica.com.br/cabelos-tratamento/cronograma-capilar\" title=\"Cronograma Capilar\" data-mce-selected=\"inline-boundary\"><strong>Use nosso cronograma capilar.﻿</strong></a></span></p><p><strong>Conclusão</strong><br>Manter a progressiva por mais tempo exige cuidados específicos, desde a escolha dos produtos até a forma de lavagem e hidratação. Com essas dicas, você pode desfrutar de cabelos lisos e saudáveis por muito mais tempo.</p>",
+        "title": "Como manter a progressiva orgânica por mais tempo"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/ProductShelf.tsx",
+        "title": "Os mais vendidos",
+        "products": {
+          "__resolveType": "vnda/loaders/productList.ts",
+          "sort": "newest",
+          "count": 10
+        },
+        "subtitle": "Os clientes também compraram"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

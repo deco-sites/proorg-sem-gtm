@@ -1,0 +1,53 @@
+{
+  "name": "Contato",
+  "path": "/contato",
+  "sections": [
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Contact.tsx",
+        "title": "Entre em contato conosco",
+        "description": "Estamos sempre à disposição para ouvir suas dúvidas, sugestões ou parcerias! Se precisar de ajuda ou apenas dizer olá, não hesite em nos enviar uma mensagem.",
+        "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/progres-organic/569fc499-a5b4-485f-b93a-437f3e0aaf56/telemarketing.png",
+        "alt": "mulher atendente de telemarketing",
+        "whatsapp": "5511942967682"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/ProductShelf.tsx",
+        "title": "Promoções da semana",
+        "products": {
+          "__resolveType": "vnda/loaders/productList.ts",
+          "sort": "newest",
+          "tags": [],
+          "typeTags": [],
+          "ids": [],
+          "count": 8
+        },
+        "subtitle": "Os mais procurados pelos nossos clientes",
+        "cta": "/"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "PO-whatsapp"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

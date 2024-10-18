@@ -1,0 +1,45 @@
+{
+  "name": "Pagamento",
+  "path": "/pagamento",
+  "sections": [
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "PO-whatsapp"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Informations.tsx",
+        "title": "Pagamento",
+        "text": "<p>Trabalhamos com diversas formas de pagamento.<br><br>Assim que finalizar sua compra, você poderá escolher qual a forma que mais lhe agrada. Demais instruções serão passadas após a escolha da forma de pagamento.</p><p class=\"font_8\"><strong>Atenciosamente;</strong></p><p class=\"font_8\"><strong>Equipe site Progressiva Orgânica</strong></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/ProductShelf.tsx",
+        "products": {
+          "__resolveType": "vnda/loaders/productList.ts",
+          "count": 8
+        },
+        "title": "Produtos relacionados",
+        "subtitle": "Os clientes também compraram"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

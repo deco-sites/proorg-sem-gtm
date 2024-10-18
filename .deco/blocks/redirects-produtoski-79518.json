@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/produtos/kit-progressiva-organica-amazon-therapy-organica-profissional-natuvegan-2x1l",
+    "to": "/produto/kit-progressiva-organica-amazon-therapy-organica-profissional-natuvegan-2x1l-18?skuId=123-AMAZON-1L-PAI",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

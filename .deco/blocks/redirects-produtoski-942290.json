@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/produtos/kit-progressiva-organica-amazon-therapy-supreme-sem-formol-protetor-termico-de-brinde",
+    "to": "/produto/kit-progressiva-organica-amazon-therapy-supreme-sem-formol-protetor-termico-de-brinde-28?skuId=SUPREME-PAI",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

@@ -1,0 +1,279 @@
+{
+  "name": "Cabelos Finos",
+  "path": "/por-tipo-de-cabelo/cabelos-finos",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "commerce/sections/Seo/SeoPLPV2.tsx",
+        "jsonLD": {
+          "__resolveType": "PLP Loader"
+        }
+      }
+    },
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "PO-whatsapp"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Images/WideBanner.tsx",
+        "images": {
+          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/496b5e00-5aea-4021-85aa-ff3e4fec95da",
+          "desktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/progres-organic/95f9611e-796c-4d77-8fc6-4ce9e0b704ae/WhatsApp-Image-2024-10-03-at-10.56.12-(1).jpeg"
+        },
+        "alt": "salao de beleza "
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/SearchResult.tsx",
+        "page": {
+          "data": {
+            "__resolveType": "vnda/loaders/productListingPage.ts",
+            "count": 12,
+            "tags": [
+              "cabelos-finos"
+            ],
+            "filterOperator": {
+              "type_tags": "and",
+              "property2": "and",
+              "property3": "and",
+              "property1": "and"
+            },
+            "filterByTags": false,
+            "slug": {
+              "__resolveType": "website/functions/requestToParam.ts",
+              "param": "slug"
+            }
+          },
+          "extensions": [],
+          "__resolveType": "commerce/loaders/product/extensions/listingPage.ts"
+        },
+        "layout": {
+          "columns": {
+            "mobile": 2,
+            "desktop": 4
+          },
+          "variant": "aside",
+          "pagination": "pagination",
+          "filtersByPrice": [
+            {
+              "minPrice": "1,00",
+              "maxPrice": "2,99"
+            },
+            {
+              "minPrice": "3,00",
+              "maxPrice": "6,00"
+            }
+          ]
+        },
+        "startingPage": 1,
+        "title": "Cabelos Finos",
+        "filtersByPrice": [
+          {
+            "minPrice": 1,
+            "maxPrice": 3,
+            "selected": false
+          },
+          {
+            "minPrice": 3,
+            "maxPrice": 6
+          }
+        ],
+        "subtitle": "Descubra nossa seleção de produtos para cabelos finos. Redutores de volume, finalizadores e tratamentos que promovem hidratação e alinhamento dos fios."
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx",
+  "navItems": {
+    "items": [
+      {
+        "children": [
+          {
+            "image": [],
+            "children": [],
+            "url": "/progressiva-organica/progressiva-organica-sem-formol-amazon-therapy1",
+            "name": "Compactação Amazon Therapy"
+          },
+          {
+            "image": [],
+            "children": [],
+            "name": "Amazon Therapy Supreme",
+            "url": "/progressiva-organica/amazon-therapy-supreme-liso-perfeito"
+          },
+          {
+            "image": [],
+            "children": [],
+            "name": "Amazon Therapy Compactação Orgânica",
+            "url": "/progressiva-organica/compactacao-organica"
+          },
+          {
+            "image": [],
+            "children": [],
+            "name": "Vegan Hair Orgânica com Biotina e Macadamia",
+            "url": "/progressiva-organica/progressiva-vegan-hair"
+          },
+          {
+            "image": [],
+            "children": [],
+            "url": "/progressiva-organica/progressiva-natuplus",
+            "name": "Prolisse"
+          },
+          {
+            "image": [],
+            "children": [],
+            "url": "/progressiva-organica/progressiva-organica-selagem-organica",
+            "name": "Selagem Orgânica"
+          },
+          {
+            "image": [],
+            "children": [],
+            "url": "/progressiva-organica/fioterapia",
+            "name": "Fioterapia"
+          },
+          {
+            "image": [],
+            "children": [],
+            "url": "/progressiva-organica/veganterapia",
+            "name": "Veganterapia"
+          },
+          {
+            "image": [],
+            "children": [],
+            "url": "/progressiva-organica/progressiva-natublond-organica",
+            "name": "Natublond"
+          },
+          {
+            "image": [],
+            "children": [],
+            "url": "/progressiva-organica/progressiva-naturale",
+            "name": "Naturale"
+          }
+        ],
+        "image": [],
+        "name": "Transformação",
+        "url": "/progressiva-organica"
+      },
+      {
+        "children": [
+          {
+            "image": [],
+            "children": [],
+            "url": "/cabelos-tratamento/tratamento-para-cabelos-crescimento-capilar",
+            "name": "Antiqueda e Crescimento Capilar"
+          },
+          {
+            "image": [],
+            "children": [],
+            "url": "/cabelos-tratamento/botox-organico",
+            "name": "Redutor de Volume e Frizz"
+          },
+          {
+            "image": [
+              {
+                "image": [],
+                "video": [],
+                "url": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/progres-organic/7c3c4813-a3ef-4d96-b376-f8825db896e4/WhatsApp-Image-2024-10-03-at-10.56.10.jpeg"
+              }
+            ],
+            "children": [],
+            "url": "/cabelos-tratamento/cronograma-capilar",
+            "name": "Cronograma Capilar"
+          },
+          {
+            "image": [],
+            "children": [],
+            "url": "/cabelos-tratamento/finalizadores",
+            "name": "Finalizadores"
+          },
+          {
+            "image": [],
+            "children": [],
+            "url": "/cabelos-tratamento/mascaras-de-tratamentos",
+            "name": "Máscaras de Tratamentos"
+          },
+          {
+            "image": [],
+            "children": [],
+            "url": "/cabelos-tratamento/manutencao-home-care",
+            "name": "Manutenção Home Care"
+          }
+        ],
+        "image": [
+          {
+            "image": [],
+            "video": []
+          },
+          {
+            "image": [],
+            "video": [],
+            "url": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/progres-organic/7c3c4813-a3ef-4d96-b376-f8825db896e4/WhatsApp-Image-2024-10-03-at-10.56.10.jpeg"
+          }
+        ],
+        "url": "/cabelos-tratamento",
+        "name": "Tratamento Capilar"
+      },
+      {
+        "children": [],
+        "image": [],
+        "name": "Para Salões",
+        "url": "/para-saloes"
+      },
+      {
+        "children": [
+          {
+            "image": [],
+            "children": [],
+            "url": "/por-tipo-de-cabelo/cabelos-loiros-luzes-mechas",
+            "name": "Cabelos Loiros - Luzes - Mechas"
+          },
+          {
+            "image": [],
+            "children": [],
+            "url": "/por-tipo-de-cabelo/cabelos-grossos-afros-cacheados",
+            "name": "Cabelos Grossos - Afros - Cacheados"
+          },
+          {
+            "image": [],
+            "children": [],
+            "name": "Cabelos Finos",
+            "url": "por-tipo-de-cabelo/cabelos-finos"
+          }
+        ],
+        "image": [],
+        "url": "/por-tipo-de-cabelo",
+        "name": "Por Tipo de Cabelo"
+      },
+      {
+        "children": [],
+        "image": [],
+        "url": "/promocao-do-mes",
+        "name": "Promoção do Mês"
+      },
+      {
+        "children": [],
+        "image": [],
+        "url": "/kits-promocionais",
+        "name": "Kits Promocionais"
+      }
+    ],
+    "__resolveType": "commerce/loaders/navbar.ts"
+  }
+}

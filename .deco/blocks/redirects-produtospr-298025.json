@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/produtos/progressiva-organica-vegan-hair-com-biotina-e-macadamia-sem-formol-2x1000ml",
+    "to": "/produto/progressiva-organica-vegan-hair-com-biotina-e-macadamia-sem-formol-2x1000ml-32?skuId=7001-VEGAN-1L-PAI",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

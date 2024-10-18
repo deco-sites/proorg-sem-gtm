@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/produtos/cronograma-capilar-profissional-bio-natureza-amazon-therapy-3x1kg",
+    "to": "/produto/cronograma-capilar-profissional-bio-natureza-amazon-therapy-3x1kg-15?skuId=CRONO-AMAZON-1KG-PAI",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

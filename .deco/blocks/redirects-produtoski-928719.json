@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/produtos/kit-progressiva-organica-amazon-therapy-sem-formol-2x300ml-kit-home-care-protetor-termico-de-brinde",
+    "to": "/produto/kit-progressiva-organica-amazon-therapy-sem-formol-2x300ml-kit-home-care-protetor-termico-de-brinde-26?skuId=COMBO-127",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

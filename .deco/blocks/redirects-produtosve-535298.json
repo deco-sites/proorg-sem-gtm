@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/produtos/vegan-hair-prolisse-redutor-de-volume-e-frizz-1kg",
+    "to": "/produto/vegan-hair-prolisse-redutor-de-volume-e-frizz-1kg-34?skuId=BOTOX-VEGAN-1KG-PAI",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

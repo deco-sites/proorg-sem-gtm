@@ -1,0 +1,3 @@
+Paginas de Informaçoes - Template
+
+Fazer as paginas de informacoes a partir do template Information Page

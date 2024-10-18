@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/produtos/kit-progressiva-organica-1-litro-embalagem-economica-protetor-termico",
+    "to": "/produto/kit-progressiva-organica-1-litro-embalagem-economica-protetor-termico-25",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

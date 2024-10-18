@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/produtos/kit-progressiva-organica-amazon-therapy-natuvegan-organica-protetor-termico",
+    "to": "/produto/kit-progressiva-organica-amazon-therapy-natuvegan-organica-protetor-termico-27?skuId=COMBO-127-PROTETOR",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

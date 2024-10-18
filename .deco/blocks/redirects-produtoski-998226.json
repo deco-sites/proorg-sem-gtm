@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/produtos/kit-progressiva-organica-natuvegan-amazon-therapy-sem-formol-kit-home-care-protetor-termico-de-brinde",
+    "to": "/produto/kit-progressiva-organica-natuvegan-amazon-therapy-sem-formol-kit-home-care-protetor-termico-de-brinde-29?skuId=COMBO-123",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

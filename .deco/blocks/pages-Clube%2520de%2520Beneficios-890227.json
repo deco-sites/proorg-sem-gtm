@@ -1,0 +1,46 @@
+{
+  "name": "Clube de Beneficios",
+  "path": "/clube-de-beneficios-da-organica",
+  "sections": [
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Informations.tsx",
+        "title": "Clube de Benefícios da ORGÂNICA",
+        "text": "<p><strong>1. Cashback Progressiva Orgânica 5%</strong><br>Compre seus produtos preferidos e receba parte do valor de volta! Em cada compra realizada no nosso site, você acumula um cashback &nbsp;exclusivo de 5% que pode ser utilizado em compras futuras. Quanto mais você compra, mais você economiza!</p><p><br data-mce-bogus=\"1\"></p><p><strong>2. Programa “Indique e Ganhe”&nbsp;</strong><br>Você adora nossos produtos? Então indique para seus amigos e familiares! A cada novo cliente que você indicar e realizar uma compra no nosso site, você ganha um bônus especial de 5% que pode ser usado como desconto em suas próximas compras. Ganhar nunca foi tão fácil!</p><p><br data-mce-bogus=\"1\"></p><p><strong>3. Programa de Afiliados&nbsp;</strong><br>Torne-se um afiliado da Progressiva Orgânica e comece a lucrar indicando nossos produtos! Ao se cadastrar no nosso programa de afiliados, você recebe um link exclusivo para compartilhar. A cada venda feita através do seu link, você ganha uma comissão de 10%. Simples, rápido e lucrativo!</p><p><br data-mce-bogus=\"1\"></p><p><strong>4. Desconto Especial para Profissionais de Beleza&nbsp;</strong><br>Se você é cabeleireiro, temos um desconto especial para você! Cadastre-se no nosso programa para profissionais e tenha acesso a preços exclusivos de até 10% em toda a linha de progressivas e tratamentos capilares. Leve a qualidade da Progressiva Orgânica diretamente para o seu salão com condições imperdíveis.</p><p><br data-mce-bogus=\"1\"></p><p><strong>5. Descontos Exclusivos para Clientes VIP&nbsp;</strong><br>Se você já é um cliente fiel da Progressiva Orgânica, saiba que também temos vantagens exclusivas para você! Participe do nosso clube VIP e receba descontos progressivos conforme suas compras acumuladas. A partir de 5% quanto mais você compra, maiores são as suas vantagens.</p><p><br data-mce-bogus=\"1\"></p><p><br data-mce-bogus=\"1\"></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/ProductShelf.tsx",
+        "products": {
+          "__resolveType": "vnda/loaders/productList.ts",
+          "count": 10,
+          "wildcard": false
+        },
+        "title": "Os mais vendidos",
+        "subtitle": "Os clientes também compraram"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "PO-whatsapp"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

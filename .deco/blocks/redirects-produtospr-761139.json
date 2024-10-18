@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/produtos/protetor-termico-fluido-reparador-leave-in-amazon-therapy-200ml",
+    "to": "/protetor-termico-fluido-reparador-leave-in-amazon-therapy-200ml-35?skuId=SPRAY-EXTREME-PAI",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

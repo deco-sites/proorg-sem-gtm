@@ -1,0 +1,56 @@
+{
+  "name": "Quem somos",
+  "path": "/quem-somos",
+  "sections": [
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "PO-whatsapp"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Images/WideBanner.tsx",
+      "images": {
+        "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/496b5e00-5aea-4021-85aa-ff3e4fec95da",
+        "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/be431e27-e307-422c-8636-5d1e43c8a732"
+      },
+      "alt": "salao de beleza "
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Informations.tsx",
+        "title": "Quem Somos",
+        "text": "<p>​Somos o site&nbsp;<strong>Progressiva Orgânica&nbsp;</strong>especializado em alisamentos orgânicos e cosméticos para cabelos,&nbsp; nosso compromisso é oferecer beleza com saúde, para tanto buscamos os melhores produtos da atualidade para oferecer aos nossos clientes. Aqui em nosso site você encontra os melhores produtos para cuidar de seus cabelos, as melhores progressivas orgânicas do mercado em um só lugar.&nbsp;<strong>Somos O Maior&nbsp;de Alisamento Orgânico do Brasil</strong></p><p><strong>MISSÃO</strong></p><p>Cuidar das pessoas através de experiências únicas valorizando a sua beleza e compartilhando felicidade.</p><p><strong>VALORES</strong><br>Amor, bem-estar comum, entusiasmo, liderança pelo exemplo, ética, comprometimento, aprimoramento constante.</p><p><a href=\"https://www.progressivaorganica.com.br/\" data-mce-href=\"https://www.progressivaorganica.com.br/\" data-mce-selected=\"inline-boundary\"><strong>Site Progressiva Orgânica</strong></a></p><p><br data-mce-bogus=\"1\"></p><p><strong>Atenciosamente;</strong></p><p><strong>Equipe site Progressiva Orgânica</strong></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/VideoAndImagePost.tsx",
+        "news": [
+          {
+            "image": {
+              "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/progres-organic/00fc744b-3e63-45ff-8421-7347011a6b3c/quem-somos-banner.png"
+            },
+            "titleNews": "Amazom supreme",
+            "post": "<p><br data-mce-bogus=\"1\"></p>"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

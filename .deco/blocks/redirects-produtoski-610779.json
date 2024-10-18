@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/produtos/kit-vegan-hair-organica-com-biotina-e-macadamia-sem-formol-2x300ml-mascara-capilar-300g",
+    "to": "/produto/kit-vegan-hair-organica-com-biotina-e-macadamia-sem-formol-2x300ml-mascara-capilar-300g-22",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

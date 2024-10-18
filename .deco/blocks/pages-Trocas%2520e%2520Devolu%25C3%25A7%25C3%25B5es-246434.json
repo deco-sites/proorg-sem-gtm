@@ -1,0 +1,46 @@
+{
+  "name": "Trocas e Devoluções",
+  "path": "/trocas-e-devolucoes",
+  "sections": [
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "PO-whatsapp"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Informations.tsx",
+        "title": "Trocas e Devoluções",
+        "text": "<p class=\"font_8\"><strong>TROCAS E DEVOLUÇÕES</strong></p><p class=\"font_8\"><br data-mce-bogus=\"1\"></p><p class=\"font_8\"><strong>Como fazer uma troca?</strong></p><p class=\"font_8\">Aqui no site&nbsp;Progressiva Orgânica, você pode efetuar a troca de qualquer produto, lacrado e não utilizado, em até 7 dias corridos após a data de recebimento.</p><p class=\"font_8\">Para sua comodidade, &nbsp;envie um e-mail para o site Progressiva Orgânica&nbsp;<strong>SAC@PROGRESSIVAORGANICA.COM.BR</strong>&nbsp;, informando o nome, número do pedido, qual produto deseja trocar e o motivo da troca, em até 1 dia útil &nbsp;responderemos seu e-mail.</p><p class=\"font_8\"><br data-mce-bogus=\"1\"></p><p class=\"font_8\">O site&nbsp;Progressiva Orgânica&nbsp;estará entrando em contato e &nbsp;autorizando o envio do produto para&nbsp;troca.</p><p class=\"font_8\"><br data-mce-bogus=\"1\"></p><p class=\"font_8\"><strong>ATENÇÃO - O produto deve ser devolvido em sua embalagem original, lacrada da mesma maneira em que foi enviado e não deve conter indícios de uso.</strong></p><p class=\"font_8\"><br data-mce-bogus=\"1\"></p><p class=\"font_8\">Após o recebimento da devolução com nosso centro de distribuição, em caso de análise desfavorável por não cumprir algum item da politica de troca do site, o produto será automaticamente devolvido para você, sem comunicação prévia, no endereço do pedido de origem e o processo de troca será cancelado.</p><p class=\"font_8\"><br data-mce-bogus=\"1\"></p><p class=\"font_8\">Não realizamos a troca de produtos utilizados.</p><p class=\"font_8\">Não realizamos trocas de brindes.&nbsp;</p><p class=\"font_8\">O produto não pode conter sinais de utilização, precisa estar na embalagem original, acompanhado do DANFE (Documento Auxiliar da Nota Fiscal Eletrônica) e de todos os lacres, etiquetas, acessórios e manuais.</p><p class=\"font_8\"><br data-mce-bogus=\"1\"></p><p class=\"font_8\"><strong>Após solicitada a troca, em quanto tempo receberei o meu pedido?</strong></p><p class=\"font_8\">O prazo de entrega será o mesmo do pedido inicial.&nbsp; &nbsp; &nbsp;</p><p class=\"font_8\">&nbsp;&nbsp;</p><p class=\"font_8\"><strong>Recebi um produto diferente do comprado, o que devo fazer?</strong></p><p class=\"font_8\">Caso receba algum produto diferente do seu pedido, entre em contato imediatamente com Central de Atendimento por e-mail, acessando sua conta, envie uma mensagem ou escreva para&nbsp;<a class=\"auto-generated-link\" href=\"mailto:SAC@PROGRESSIVAORGANICA.COM.BR\" data-mce-href=\"mailto:SAC@PROGRESSIVAORGANICA.COM.BR\">SAC@PROGRESSIVAORGANICA.COM.BR</a>&nbsp;enviando uma foto do produto recebido.</p><p class=\"font_8\">Não viole a embalagem do produto e notifique imediatamente nossa Central de Atendimento.</p><p class=\"font_8\"><br data-mce-bogus=\"1\"></p><p class=\"font_8\">Em até 24 horas úteis estaremos retornando seu contato via e-mail com o procedimento para realizar a devolução.</p><p class=\"font_8\">É necessário que a cliente devolva o produto enviado errado para que o novo seja reenviado.</p><p class=\"font_8\">​</p><p class=\"font_8\"><strong>Atenciosamente;</strong></p><p class=\"font_8\"><strong>Equipe site Progressiva Orgânica</strong></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/ProductShelf.tsx",
+        "title": "Os mais vendidos",
+        "products": {
+          "__resolveType": "vnda/loaders/productList.ts",
+          "sort": "newest",
+          "count": 10
+        },
+        "subtitle": "Os clientes também compraram"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/produtos/natuvegan-oleo-de-argan-30ml",
+    "to": "/produto/natuvegan-oleo-de-argan-30ml-38?skuId=OLEO-PROLISSE-PAI",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

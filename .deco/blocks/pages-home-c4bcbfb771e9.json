@@ -1,0 +1,500 @@
+{
+  "name": "Home Page",
+  "sections": {
+    "__resolveType": "website/flags/multivariate.ts",
+    "variants": [
+      {
+        "value": [
+          {
+            "__resolveType": "Header"
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "PO-whatsapp"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/SmallBannersTop.tsx",
+              "preload": true,
+              "images": [
+                {
+                  "desktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/progres-organic/dc722555-619e-470e-9af7-7e566de48a73/black-friday-progressiva-organica.jpg",
+                  "href": "/promocao-do-mes",
+                  "alt": "Black Friday Progressiva Orgânica"
+                },
+                {
+                  "desktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/progres-organic/8ea8cd4b-23a3-406f-99d9-3f23b9b49e0b/progressivaorganica-frete-gratis.jpg",
+                  "href": "/promocao-do-mes",
+                  "alt": "progressiva orgânica frete grátis"
+                },
+                {
+                  "desktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/progres-organic/d952b810-f15c-40e2-be59-6c56b058d774/promocao-progressiva-organica.jpg",
+                  "href": "/promocao-do-mes",
+                  "alt": "Promoção Progressiva Orgânica"
+                }
+              ]
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/HeroBar.tsx",
+              "content": [
+                {
+                  "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/cf6c5a95-5cb1-42a7-8a6f-3583b3729cd7",
+                  "title": "Frete Grátis",
+                  "subtitle": "Á partir de R$149,00",
+                  "href": "https://www.progressivaorganica.com.br/frete-e-prazos"
+                },
+                {
+                  "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/5424fda2-0618-40f0-9dab-fe34b6b44663",
+                  "subtitle": "6x Sem Juros",
+                  "title": "Parcelamento",
+                  "href": "https://www.progressivaorganica.com.br/pagamento"
+                },
+                {
+                  "href": "https://api.whatsapp.com/send/?phone=5511942967682&text&type=phone_number&app_absent=0",
+                  "title": "Atendimento",
+                  "subtitle": "via Whatsapp",
+                  "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/11e637b9-de04-4f53-b290-2c9ab618ea89"
+                },
+                {
+                  "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/60d8d358-27c6-4d1e-9bdd-4cc4ab3d6b70",
+                  "title": "Site 100%",
+                  "subtitle": "Seguro",
+                  "href": "https://transparencyreport.google.com/safe-browsing/search?url=https:%2F%2Fwww.progressivaorganica.com.br%2F&hl=pt_BR"
+                }
+              ]
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Product/ProductShelf.tsx",
+              "products": {
+                "__resolveType": "vnda/loaders/productList.ts",
+                "sort": "newest",
+                "tags": [],
+                "typeTags": [],
+                "ids": [
+                  20,
+                  32,
+                  42,
+                  18,
+                  13,
+                  10,
+                  34,
+                  12
+                ],
+                "count": 10
+              },
+              "title": "Mais Vendidos",
+              "subtitle": "Os Produtos Mais Vendidos ",
+              "cta": "/"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Product/ProductShelf.tsx",
+              "products": {
+                "__resolveType": "vnda/loaders/productList.ts",
+                "sort": "newest",
+                "tags": [],
+                "typeTags": [],
+                "ids": [
+                  28,
+                  33,
+                  15,
+                  14,
+                  27,
+                  35,
+                  12
+                ],
+                "count": 8
+              },
+              "title": "Promoções da semana",
+              "subtitle": "Aproveite As Promoções da Semana",
+              "cta": "/"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Images/Banner.tsx",
+              "title": "Progressiva Organica",
+              "cta": {
+                "href": "#",
+                "label": "Lorem Ipsum"
+              },
+              "description": "<p><span style=\"color: rgb(45, 194, 107);\" data-mce-style=\"color: rgb(45, 194, 107);\">Lorem Ipsum</span></p>",
+              "images": {
+                "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/26baf1ed-8e8c-4abe-a6ae-a1d3a4aebbc1",
+                "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/4994cf90-905a-4497-a89a-a1e4981a1471"
+              },
+              "alt": "Os Melhores Cronogramas Capilares",
+              "href": "/cabelos-tratamento/cronograma-capilar"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Product/ProductShelf.tsx",
+              "title": "Promoções",
+              "cta": "/kits-promocionais",
+              "products": {
+                "__resolveType": "vnda/loaders/productList.ts",
+                "sort": "newest",
+                "tags": [],
+                "typeTags": [],
+                "ids": [
+                  31,
+                  30,
+                  27,
+                  26,
+                  25,
+                  29,
+                  24,
+                  28
+                ],
+                "count": 8
+              },
+              "subtitle": "Combos Promocionais Progressiva Orgânica"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/SmallBannersTop.tsx",
+              "preload": true,
+              "images": [
+                {
+                  "desktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/progres-organic/2256f5b5-2ea4-4ce3-a53a-ae42aeff5d9c/BANNER-KIT-1.webp",
+                  "href": "/",
+                  "alt": "Mulher morena segurando o produto Amazon therapy supreme"
+                },
+                {
+                  "desktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/progres-organic/0bece92b-5b0d-47ac-a35f-444c42167ae6/BANNER-KIT-2.webp",
+                  "alt": "Mulher morena segurando o produto kit progressiva vergan sem formol",
+                  "href": "/"
+                },
+                {
+                  "desktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/progres-organic/cd16b26d-c8fc-44ce-b2b9-85b99dedf58f/BANNER-KIT-3.webp",
+                  "alt": "Mulher morena segurando o produto Amazon Natuvergan",
+                  "href": "/"
+                }
+              ]
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/VideoBeforeAfter.tsx",
+              "title": "Compactação Amazon Therapy Supreme",
+              "subtile": "Cabelos alinhados, sem frizz e com muito brilho!",
+              "text": "Conheça esse produto",
+              "video": "https://www.youtube.com/watch?v=mDUIcqYdJKI",
+              "href": "produto/kit-/progressiva-organica-amazon-therapy-supreme-sem-formol-protetor-termico-de-brinde-28?skuId=SUPREME-PAI",
+              "videoyt": "https://www.youtube.com/watch?v=mDUIcqYdJKI",
+              "imageYoutube": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/progres-organic/1468c840-9194-4959-8a9e-a3b882bcc6db/youtube.png"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Newsletter/Newsletter.tsx",
+              "title": "Receba todas as promoções",
+              "label": "Sign up",
+              "placeholder": "E-mail",
+              "empty": {
+                "title": "Get top deals, latest trends, and more.",
+                "description": "Receive our news and promotions in advance. Enjoy and get 10% off your first purchase. For more information click here."
+              },
+              "success": {
+                "title": "Thank you for subscribing!",
+                "description": "You’re now signed up to receive the latest news, trends, and exclusive promotions directly to your inbox. Stay tuned!"
+              },
+              "failed": {
+                "title": "Oops!. Something went wrong!",
+                "description": "Something went wrong. Please try again. If the problem persists, please contact us."
+              },
+              "description": "Quer receber nossas ofertas? Cadastre-se e comece a recebê-las!"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "Footer"
+            }
+          }
+        ],
+        "rule": {
+          "__resolveType": "Mobile"
+        }
+      },
+      {
+        "value": [
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "PO-whatsapp"
+            }
+          },
+          {
+            "__resolveType": "Header"
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "PO-whatsapp"
+            }
+          },
+          {
+            "__resolveType": "site/sections/Images/Carousel.tsx",
+            "images": [
+              {
+                "desktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/progres-organic/95498a6d-6b0c-4d80-9b72-c409aff172a8/WhatsApp-Image-2024-10-03-at-10.56.14.jpeg",
+                "action": {
+                  "href": "/",
+                  "title": "Hair",
+                  "subTitle": "Progressiva",
+                  "label": "Organica"
+                },
+                "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/4ce1ae0a-d236-47d4-8d7c-97bb311d5fae",
+                "href": "/promocao-do-mes",
+                "alt": "Black Friday Progressiva Orgânica"
+              },
+              {
+                "desktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/progres-organic/ceae7fcb-ef81-498d-b369-81319f43c3a5/WhatsApp-Image-2024-10-03-at-10.56.14-(1).jpeg",
+                "href": "/promocao-do-mes",
+                "alt": "Promoção Black Friday Progressiva Orgânica"
+              },
+              {
+                "desktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/progres-organic/4cbc220c-e208-44ae-b774-61c6b931daea/BANNER---ESQUENTA-BLACK-FRETE-GRATIS.jpg",
+                "alt": "Black Friday Progressiva Orgânica - Frete Grátis",
+                "href": "promocao-do-mes"
+              }
+            ],
+            "preload": true,
+            "interval": 5
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/HeroBar.tsx",
+              "content": [
+                {
+                  "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/cf6c5a95-5cb1-42a7-8a6f-3583b3729cd7",
+                  "title": "Frete Grátis",
+                  "subtitle": "Á partir de R$149,00",
+                  "href": "https://www.progressivaorganica.com.br/frete-e-prazos"
+                },
+                {
+                  "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/5424fda2-0618-40f0-9dab-fe34b6b44663",
+                  "subtitle": "6x Sem Juros",
+                  "title": "Parcelamento",
+                  "href": "https://www.progressivaorganica.com.br/pagamento"
+                },
+                {
+                  "href": "https://api.whatsapp.com/send/?phone=5511942967682&text&type=phone_number&app_absent=0",
+                  "title": "Atendimento",
+                  "subtitle": "via Whatsapp",
+                  "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/11e637b9-de04-4f53-b290-2c9ab618ea89"
+                },
+                {
+                  "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/60d8d358-27c6-4d1e-9bdd-4cc4ab3d6b70",
+                  "title": "Site 100%",
+                  "subtitle": "Seguro",
+                  "href": "https://transparencyreport.google.com/safe-browsing/search?url=https:%2F%2Fwww.progressivaorganica.com.br%2F&hl=pt_BR"
+                }
+              ]
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/SmallBannersTop.tsx",
+              "preload": true,
+              "images": [
+                {
+                  "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/1d2ac4a6-9642-405b-92f3-246ae22b6081",
+                  "alt": "Tratamentos",
+                  "href": "/tratamentos"
+                },
+                {
+                  "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/5d409902-8c88-4a85-a474-c394a02dce6e",
+                  "alt": "Para Salões",
+                  "href": "/para-saloes"
+                },
+                {
+                  "alt": "Home Care",
+                  "href": "/home-care",
+                  "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/b9a75eaa-2b46-42f0-8c79-8b402e728d16"
+                }
+              ]
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Product/ProductShelf.tsx",
+              "products": {
+                "__resolveType": "vnda/loaders/productList.ts",
+                "ids": [
+                  20,
+                  32,
+                  42,
+                  18,
+                  13,
+                  10,
+                  34,
+                  12
+                ],
+                "count": 8,
+                "wildcard": true
+              },
+              "title": "Mais Vendidos!",
+              "subtitle": "Os Produtos Mais Vendidos",
+              "cta": "/"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Product/ProductShelf.tsx",
+              "title": "Promoções da semana",
+              "cta": "/",
+              "products": {
+                "__resolveType": "vnda/loaders/productList.ts",
+                "sort": "newest",
+                "tags": [],
+                "typeTags": [],
+                "ids": [
+                  28,
+                  33,
+                  15,
+                  14,
+                  27,
+                  35,
+                  12
+                ],
+                "count": 8
+              },
+              "subtitle": "Aproveite As Promoções da Semana"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Images/Banner.tsx",
+              "title": "Progressiva Organica",
+              "cta": {
+                "href": "#",
+                "label": "Lorem Ipsum"
+              },
+              "description": "<p><span style=\"color: rgb(45, 194, 107);\" data-mce-style=\"color: rgb(45, 194, 107);\">Lorem Ipsum</span></p>",
+              "images": {
+                "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/26baf1ed-8e8c-4abe-a6ae-a1d3a4aebbc1",
+                "desktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/progres-organic/0c9f43c9-3137-4cad-ba22-9d3139712cc9/WhatsApp-Image-2024-10-03-at-10.56.15.jpeg"
+              },
+              "alt": "Os melhore produtos para tratar o cabelo em casa",
+              "href": "/cabelos-tratamento"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Product/ProductShelf.tsx",
+              "products": {
+                "__resolveType": "vnda/loaders/productList.ts",
+                "sort": "newest",
+                "tags": [],
+                "typeTags": [],
+                "ids": [
+                  31,
+                  30,
+                  27,
+                  26,
+                  25,
+                  29,
+                  24,
+                  28
+                ],
+                "count": 8
+              },
+              "title": "Promoções",
+              "subtitle": "Combos Promocionais Progressiva Orgânica",
+              "cta": "/kits-promocionais"
+            }
+          },
+          {
+            "__resolveType": "site/sections/Newsletter/Newsletter.tsx",
+            "label": "Sign up",
+            "placeholder": "E-mail",
+            "empty": {
+              "title": "Get top deals, latest trends, and more.",
+              "description": "Receive our news and promotions in advance. Enjoy and get 10% off your first purchase. For more information click here."
+            },
+            "success": {
+              "title": "Thank you for subscribing!",
+              "description": "You’re now signed up to receive the latest news, trends, and exclusive promotions directly to your inbox. Stay tuned!"
+            },
+            "failed": {
+              "title": "Oops!. Something went wrong!",
+              "description": "Something went wrong. Please try again. If the problem persists, please contact us."
+            },
+            "title": "Receba todas as promoções",
+            "description": "Quer receber nossas ofertas? Cadastre-se e comece a recebê-las!",
+            "placeholderName": "Digite seu nome aqui!",
+            "placeholderEmail": "Digite seu e-mail aqui!"
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/VideoBeforeAfter.tsx",
+              "title": "Compactação Amazon Therapy Supreme",
+              "subtile": "Transforme seus fios com a Progressiva Orgânica! Cabelos alinhados, sem frizz e com muito brilho! Liso Perfeito & Natural!",
+              "text": "Conheça esse produto",
+              "video": "https://www.youtube.com/watch?v=mDUIcqYdJKI",
+              "href": "/produto/kit-progressiva-organica-amazon-therapy-supreme-sem-formol-protetor-termico-de-brinde-28",
+              "videoyt": "https://www.youtube.com/watch?v=mDUIcqYdJKI",
+              "imageYoutube": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/progres-organic/1468c840-9194-4959-8a9e-a3b882bcc6db/youtube.png",
+              "renderVideo": false
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "Footer"
+            }
+          }
+        ],
+        "rule": {
+          "__resolveType": "website/matchers/always.ts"
+        }
+      }
+    ]
+  },
+  "__resolveType": "website/pages/Page.tsx",
+  "path": "/",
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "products": {
+    "__resolveType": "shopify/loaders/ProductList.ts",
+    "props": {
+      "sort": "",
+      "count": 6,
+      "query": "Hat"
+    },
+    "filters": {
+      "tags": [],
+      "productTypes": [],
+      "productVendors": [],
+      "variantOptions": []
+    }
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "__resolveType": "site/sections/Footer/Footer.tsx",
+  "links": [
+    {
+      "title": "Institucional",
+      "children": [
+        {
+          "title": "Quem Somos",
+          "href": "/quem-somos"
+        },
+        {
+          "title": "Como Comprar",
+          "href": "/como-comprar"
+        },
+        {
+          "title": "Fretes e Prazos",
+          "href": "/frete-e-prazos"
+        },
+        {
+          "title": "Pagamento",
+          "href": "/pagamento"
+        },
+        {
+          "title": "Trocas e Devoluções",
+          "href": "/trocas-e-devolucoes"
+        },
+        {
+          "title": "Diferenças entre Progressivas",
+          "href": "/diferencas-entre-progressivas"
+        },
+        {
+          "title": "Política de Privacidade",
+          "href": "/politica-de-privacidade"
+        },
+        {
+          "title": "Perguntas Frequentes",
+          "href": "/perguntas-frequentes"
+        }
+      ],
+      "href": "#",
+      "links": [
+        {
+          "title": "Quem Somos",
+          "href": "/quem-somos"
+        },
+        {
+          "title": "Como Comprar",
+          "href": "/como-comprar"
+        },
+        {
+          "title": "Fretes e Prazos",
+          "href": "/frete-e-prazos"
+        },
+        {
+          "title": "Trocas e Devoluções",
+          "href": "/trocas-e-devolucoes"
+        },
+        {
+          "title": "Pagamento",
+          "href": "/pagamento"
+        },
+        {
+          "title": " Política de Reembolso",
+          "href": "/politica-de-reembolso"
+        },
+        {
+          "title": "Programa de Afiliados",
+          "href": "/programa-de-afiliados"
+        },
+        {
+          "title": "Diferenças entre Progressivas",
+          "href": "/diferencas-entre-progressivas"
+        },
+        {
+          "title": "Política de Privacidade",
+          "href": "/politica-de-privacidade"
+        },
+        {
+          "title": "Perguntas Frequentes",
+          "href": "/perguntas-frequentes"
+        }
+      ]
+    },
+    {
+      "title": "Departamentos",
+      "href": "#",
+      "children": [
+        {
+          "title": "Transformação",
+          "href": "/transformacao"
+        },
+        {
+          "title": "Tratamento Capilar",
+          "href": "/tratamento-capilar"
+        },
+        {
+          "title": "Acessórios",
+          "href": "/acessorios"
+        },
+        {
+          "title": "Para Salões",
+          "href": "/para-saloes"
+        },
+        {
+          "title": "Por Tipo de Cabelo",
+          "href": "/por-tipo-de-cabelo"
+        },
+        {
+          "title": "Promoção do mês",
+          "href": "/promocao-do-mes"
+        },
+        {
+          "title": "Kits Promocionais",
+          "href": "/kits-promocionais"
+        },
+        {
+          "title": "Rastreio",
+          "href": "/rastreio"
+        }
+      ],
+      "links": [
+        {
+          "title": "Transformação",
+          "href": "/transformacao"
+        },
+        {
+          "title": "Tratamento Capilar",
+          "href": "/tratamento-capilar"
+        },
+        {
+          "title": "Acessórios",
+          "href": "/acessorios"
+        },
+        {
+          "title": "Para Salões",
+          "href": "/para-saloes"
+        },
+        {
+          "title": "Por Tipo de Cabelo",
+          "href": "/por-tipo-de-cabelo"
+        },
+        {
+          "title": "Promoção do Mês",
+          "href": "/promocao-do-mes"
+        },
+        {
+          "title": "Kits Promocionais",
+          "href": "/kits-promocionais"
+        },
+        {
+          "title": "Rastreio",
+          "href": "/rastreio"
+        }
+      ]
+    },
+    {
+      "title": "Entre em contato",
+      "href": "#",
+      "children": [
+        {
+          "title": "Support Center",
+          "href": "#"
+        },
+        {
+          "title": "Schedule a service",
+          "href": "#"
+        },
+        {
+          "title": "Contact us",
+          "href": "#"
+        }
+      ],
+      "links": [
+        {
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/2e1a0cdc-aa28-46f9-b3a9-ebccb1a93d09",
+          "href": "https://api.whatsapp.com/send/?phone=5511942967682&text&type=phone_number&app_absent=0",
+          "title": "5511942967682",
+          "isBlank": true
+        },
+        {
+          "title": "(11) 94296-7682",
+          "href": "tel:+5511942967682",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/de278aca-2f47-4bd4-9556-785cc3af1558"
+        },
+        {
+          "title": "contato@progressivaorganica.com.br",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/82c4b7da-01aa-42f1-aa87-c227b59372d2",
+          "href": "mailto:contato@progressivaorganica.com.br"
+        },
+        {
+          "title": "AV. Gaudino, Paraguaçu Paulista-SP",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/bb03b559-85ad-40ed-8d80-9076eeb2adab",
+          "href": "https://maps.app.goo.gl/U7DyJ5KzXcGNR5Nm8"
+        }
+      ]
+    }
+  ],
+  "social": [
+    {
+      "alt": "Instagram",
+      "href": "https://www.instagram.com/progressiva_organica.com.br",
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/progres-organic/572ea760-dba1-446a-ac6a-d5ad62563db2/Instagram.png"
+    },
+    {
+      "alt": "facebook",
+      "href": "https://www.facebook.com/progressivaorganica.com.br",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/a1dcdf87-0df1-4133-a615-e16119957acb"
+    }
+  ],
+  "paymentMethods": [
+    {
+      "title": "visa",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/953342f5-a81a-4608-b88f-c872528bd8cb"
+    },
+    {
+      "title": "mastercard",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/9dbe2639-a768-493d-8462-e99adc7297aa"
+    },
+    {
+      "title": "american express",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/7bd4b051-fb26-4bb2-8ddc-237191e75522"
+    },
+    {
+      "title": "bradesco",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/c6b457f5-e404-4b76-af4c-aa4e593ece12"
+    },
+    {
+      "title": "elo",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/a15ec7a0-dc3c-4ade-a0a7-b30a47685852"
+    },
+    {
+      "title": "hipercard",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/7716a5ed-5b60-46e7-8c45-b2a6d8973215"
+    },
+    {
+      "title": "pix",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/49e21b79-057d-4ef4-b897-4eb60a30bf31"
+    }
+  ],
+  "policies": [
+    {
+      "title": "Privacy Policy",
+      "href": "#"
+    },
+    {
+      "title": "Terms and Conditions",
+      "href": "#"
+    },
+    {
+      "title": "Cookies Policy",
+      "href": "#"
+    }
+  ],
+  "logo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/f1faab73-e4ff-4037-b7c4-5d02bd0b1209",
+  "trademark": "TM & © 2023 Deco Storefront, Inc.",
+  "siteName": "Progressiva Orgânica Cosméticos ®",
+  "description": "Site Oficial PROGRESSIVA ORGÂNICA\nCOSMÉTICOS há mais de 10 anos no mercado\nde cosméticos, temos como principal objetivo\najudar as mulheres a ter mais praticidade no seu\ndia a dia. Aqui você encontra as melhores\nprogressivas orgânicas e os melhores\ntratamentos capilares com resultados efetivos e\nduradouros. Liso Perfeito com brilho você\nencontra aqui!",
+  "socialTitle": "Permaneça conectado",
+  "mobileAppLink": {
+    "apple": "/",
+    "android": "/"
+  },
+  "Badges": [],
+  "mobileApp": false,
+  "badges": [
+    {
+      "title": "Google Verify",
+      "href": "https://transparencyreport.google.com/safe-browsing/search?url=https:%2F%2Fwww.progressivaorganica.com.br%2F&hl=pt_BR",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/b7a67e86-02fc-4d6d-9916-661f6dc6d21d"
+    }
+  ],
+  "delivery": [
+    "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/progres-organic/33554419-ec90-4ed7-9fec-356b3c59f690/kangu.png",
+    "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/progres-organic/3d76b88d-efc4-4f79-9200-d84dcef6f25d/correios.jpeg"
+  ],
+  "copyright": "Copyright Progressiva Orgânica Cosméticos LTDA - 32902095000125 - 2024. Todos os direitos reservados."
+}

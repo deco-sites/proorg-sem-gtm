@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/produtos/kit-progressiva-organica-vegan-hair-sem-formol-protetor-termico-de-brinde",
+    "to": "/produto/kit-progressiva-organica-vegan-hair-sem-formol-protetor-termico-de-brinde-31?skuId=COMBO-7000-PROTETOR",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

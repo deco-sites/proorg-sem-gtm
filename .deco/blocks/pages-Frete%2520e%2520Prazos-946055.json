@@ -1,0 +1,46 @@
+{
+  "name": "Frete e Prazos",
+  "path": "/frete-e-prazos",
+  "sections": [
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "PO-whatsapp"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Informations.tsx",
+        "title": "Frete e Prazos",
+        "text": "<h3><strong>POLÍTICA DE ENVIOS</strong></h3><p><br data-mce-bogus=\"1\"></p><p><strong>Os pedidos realizados após as 13:30hs estão sujeitos a serem enviados no próximo dia útil, devido ao sistema de coleta dos correios em nosso CD. válido para: ( SEDEX10 - SEDEX - PAC)</strong></p><p><strong>Rastreamento</strong></p><p>Você pode rastrear seu pedido a qualquer&nbsp;momento depois que ele for enviado. Proceda assim: consulte o status de seu pedido diretamente no menu MEUS PEDIDOS após fazer o Login na sua conta junto ao nosso site, depois é só clicar em rastrear entrega e pronto, você já estará acompanhando seu pedido.</p><p><strong>Entrega</strong></p><p>O prazo de entrega começa a contar após a postagem do seu pedido e é calculado em dias úteis. A sua entrega é calculada de acordo com o CEP fornecido e que encontra-se na finalização do seu pedido, logo abaixo do endereço de entrega.</p><p><br><strong>Prazos de Entrega:</strong></p><p>O prazo de entrega varia de acordo com cada CEP e a opção de frete escolhida. Você pode consultar os prazos disponíveis para o endereço de entrega ao realizar o seu pedido. Basta colocar um produto em seu carrinho e selecionar \"Finalizar Compra\". Você será redirecionado para a página \"Sacola de Compras\", onde deverá inserir o CEP do seu endereço de entrega. Serão exibidas automaticamente as opções de frete disponíveis para o seu pedido. É só escolher a que mais se adequada à sua necessidade!</p><p>Serão realizadas até 3 tentativas de entregas, e caso nenhuma delas tenha sucesso a sua encomenda poderá ficar aguardando retirada em uma agência ou ser devolvida para a Progressiva Orgânica.</p><p><strong>Valor do frete</strong></p><p class=\"font_8\">Oferecemos o FRETE GRÁTIS para todo brasil&nbsp;(PARA COMPRAS ACIMA DE R$148,00)&nbsp;</p><p class=\"font_8\"><br data-mce-bogus=\"1\"></p><p class=\"font_8\">Todos os produtos com frete grátis são enviados via modalidade PAC dos correios e em algumas ocasiões específicas onde o PAC não atende será enviados via SEDEX dos correios, o prazo de entrega é de acordo com o prazo dos estabelecido pelos correios.</p><p>você poderá verificar na oferta do carrinho ao inserir seu CEP. Caso o seu pedido não atinja o valor mínimo (pode variar por estado) para o frete grátis, o custo da entrega será calculado de acordo com o CEP do seu endereço de entrega (taxas e serviços não estão inclusos nesse valor). Caso você queira que seu pedido seja entregue ainda mais rápido do que nossa entrega normal, consulte as opções de frete disponíveis para o seu CEP.</p><p><strong>Atenção</strong></p><p>- Para os tipos de frete a data do pedido não conta no cálculo do prazo de entrega, e sim a postagem do seu pedido (quando o enviamos) em dias úteis. Este prazo pode ser alterado em períodos de campanhas específicas.</p><p>- Você pode acompanhar a sua entrega pelo nosso site em \"Meus Pedidos\".</p><p>- Você receberá por e-mail todos status do seu pedido.</p><p>- As datas de entrega são uma estimativa e podem haver pequenos atraso devido à fatores externos tais como chuvas em excesso, áreas de risco extremo e zonas rurais.</p><p>- Serão realizadas até 3 tentativas de entregas, e caso nenhuma delas tenha sucesso a sua encomenda poderá ficar aguardando retirada em uma agência ou ser devolvida para a Progressiva Orgânica.</p><p>- Em caso de endereçamento errado por parte do cliente durante o cadastro no site ou&nbsp;recusa de recebimento no local da entrega, para um novo envio do pedido só será realizado após o pagamento do novo frete.</p><p><strong>- O cliente deve acompanhar a entrega do pedido através do rastreamento informado por nós via e-mail e whatsapp caso tenha cadastrado, verificando o status do rastreio diariamente, em alguns casos os correios solicitam a retirada da encomenda na agência dos correios, nestes casos o endereço será informado pelo próprio correio no rastreamento, fica o cliente responsável pelo acompanhamento e retirada do produto dentro do prazo estipulado pelos correios.</strong></p><p><strong>1- Caso o cliente não retire o produto na agência indicada dentro do prazo informado pelos correios, o objeto será devolvido ao nosso centro de distribuição e para o reenvio ao cliente será cobrado uma taxa do novo frete do mesmo, o valor será calculado pelo valor do envio modalidade PAC.</strong></p><p class=\"font_8\"><br data-mce-bogus=\"1\"></p><p class=\"font_8\"><strong>FORMAS DE ENVIO</strong></p><p class=\"font_8\"><br data-mce-bogus=\"1\"></p><p class=\"font_8\">Temos as seguintes formas de envio no nosso site:</p><p class=\"font_8\"><br data-mce-bogus=\"1\"></p><p class=\"font_8\">PAC</p><p class=\"font_8\">SEDEX</p><p class=\"font_8\">SEDEX 10 (Consultar regiões)</p><p class=\"font_8\"><br data-mce-bogus=\"1\"></p><p class=\"font_8\"><br data-mce-bogus=\"1\"></p><p class=\"font_8\"><strong>Atenciosamente;</strong></p><p class=\"font_8\"><strong>Equipe site Progressiva Orgânica</strong></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/ProductShelf.tsx",
+        "products": {
+          "__resolveType": "vnda/loaders/productList.ts",
+          "count": 10,
+          "sort": "newest"
+        },
+        "title": "Os Mais Vendidos",
+        "subtitle": "Os mais procurados pelos nossos clientes"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

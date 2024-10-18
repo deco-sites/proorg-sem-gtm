@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/produtos/kit-progressiva-organica-vegan-hair-com-biotina-e-macadamia-sem-formol-2x300ml",
+    "to": "/produto/kit-progressiva-organica-vegan-hair-com-biotina-e-macadamia-sem-formol-2x300ml-20",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

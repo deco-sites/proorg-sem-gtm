@@ -1,0 +1,15 @@
+{
+  "__resolveType": "site/sections/Images/Banner.tsx",
+  "title": "Progressiva Organica",
+  "cta": {
+    "href": "#",
+    "label": "Lorem Ipsum"
+  },
+  "description": "<p><span style=\"color: rgb(45, 194, 107);\" data-mce-style=\"color: rgb(45, 194, 107);\">Lorem Ipsum</span></p>",
+  "images": {
+    "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/26baf1ed-8e8c-4abe-a6ae-a1d3a4aebbc1",
+    "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12156/4994cf90-905a-4497-a89a-a1e4981a1471"
+  },
+  "alt": "Banner tratamento",
+  "href": "/"
+}

@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/produtos/mascara-naturale-hidratacao-nutricao-reconstrucao-tratamento-pre-e-pos-quimicas-300gr",
+    "to": "/produto/mascara-naturale-hidratacao-nutricao-reconstrucao-tratamento-pre-e-pos-quimicas-300gr-36?skuId=MASC-NATURALE-PAI",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

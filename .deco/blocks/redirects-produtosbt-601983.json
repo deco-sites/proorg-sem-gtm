@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/produtos/btx-vegan-hair-prolisse-biotina-e-macadamia-300g",
+    "to": "/produto/btx-vegan-hair-prolisse-biotina-e-macadamia-300g-12?skuId=BOTOX-VEGAN-300G-PAI",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

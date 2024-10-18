@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/produtos/compactacao-amazon-therapy-redutor-de-volume-e-frizz-1kg",
+    "to": "/produto/compactacao-amazon-therapy-redutor-de-volume-e-frizz-1kg-13?skuId=BOTOX-AMAZ-1KG-PAI",
+    "type": "permanent"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}
